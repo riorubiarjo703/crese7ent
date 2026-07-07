@@ -1,0 +1,7 @@
+Runtime error encountered: Launching Chrome on Mac Silicon (arm64) from an x64 Node installation results in Rosetta translating the Chrome binary, even if Chrome is already arm64. This would result in huge performance issues. To resolve this, you must run Lighthouse CLI with a version of Node built for arm64. You should also confirm that your Chrome install says arm64 in chrome://version
+Error: Launching Chrome on Mac Silicon (arm64) from an x64 Node installation results in Rosetta translating the Chrome binary, even if Chrome is already arm64. This would result in huge performance issues. To resolve this, you must run Lighthouse CLI with a version of Node built for arm64. You should also confirm that your Chrome install says arm64 in chrome://version
+    at getDebuggableChrome (file:///Users/admin/.npm/_npx/0f94ee7615faf582/node_modules/lighthouse/cli/run.js:76:13)
+    at runLighthouse (file:///Users/admin/.npm/_npx/0f94ee7615faf582/node_modules/lighthouse/cli/run.js:204:30)
+    at begin (file:///Users/admin/.npm/_npx/0f94ee7615faf582/node_modules/lighthouse/cli/bin.js:134:10)
+    at async file:///Users/admin/.npm/_npx/0f94ee7615faf582/node_modules/lighthouse/cli/index.js:10:1
+DONE

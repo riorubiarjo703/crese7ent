@@ -1,0 +1,218 @@
+[
+  {
+    "device": "iphone-14",
+    "overflowX": 0,
+    "viewport": {
+      "w": 390,
+      "h": 664
+    },
+    "sections": [
+      {
+        "id": "#about",
+        "visible": true,
+        "width": 390
+      },
+      {
+        "id": "#solutions",
+        "visible": true,
+        "width": 390
+      }
+    ],
+    "menuButtonVisible": true,
+    "smallTargets": [
+      {
+        "tag": "button",
+        "text": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Our solutions",
+        "w": 326,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "About us",
+        "w": 326,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Discover our strategies",
+        "w": 189,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      }
+    ],
+    "title": "Home | Corporate"
+  },
+  {
+    "device": "iphone-se",
+    "overflowX": 0,
+    "viewport": {
+      "w": 320,
+      "h": 568
+    },
+    "sections": [
+      {
+        "id": "#about",
+        "visible": true,
+        "width": 320
+      },
+      {
+        "id": "#solutions",
+        "visible": true,
+        "width": 320
+      }
+    ],
+    "menuButtonVisible": true,
+    "smallTargets": [
+      {
+        "tag": "button",
+        "text": "",
+        "w": 37,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Our solutions",
+        "w": 256,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "About us",
+        "w": 256,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Discover our strategies",
+        "w": 189,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      }
+    ],
+    "title": "Home | Corporate"
+  },
+  {
+    "device": "pixel-7",
+    "overflowX": 0,
+    "viewport": {
+      "w": 412,
+      "h": 839
+    },
+    "sections": [
+      {
+        "id": "#about",
+        "visible": true,
+        "width": 412
+      },
+      {
+        "id": "#solutions",
+        "visible": true,
+        "width": 412
+      }
+    ],
+    "menuButtonVisible": true,
+    "smallTargets": [
+      {
+        "tag": "button",
+        "text": "",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Our solutions",
+        "w": 348,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "About us",
+        "w": 348,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Discover our strategies",
+        "w": 189,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      },
+      {
+        "tag": "a",
+        "text": "Know more",
+        "w": 110,
+        "h": 40
+      }
+    ],
+    "title": "Home | Corporate"
+  }
+]

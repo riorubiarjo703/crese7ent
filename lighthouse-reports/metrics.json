@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-06-17T12:09:54.800Z",
+  "url": "http://localhost:3000",
+  "note": "Playwright CWV snapshot on dev server — not a full Lighthouse run (CLI blocked by arm64 Node).",
+  "results": [
+    {
+      "device": "desktop",
+      "loadMs": 32706,
+      "metrics": {
+        "ttfb": 12313,
+        "domContentLoaded": 13204,
+        "loadEvent": 14238,
+        "fcp": 12760,
+        "lcp": null,
+        "cls": 0,
+        "imagesMissingAlt": 0,
+        "h1Count": 1,
+        "hasMetaDescription": true,
+        "hasViewport": true,
+        "docTitle": "Home | Corporate",
+        "transferSize": 29524
+      },
+      "scores": {
+        "performance": 75,
+        "accessibility": 100,
+        "seo": 100,
+        "bestPractices": 100
+      }
+    },
+    {
+      "device": "mobile",
+      "loadMs": 32774,
+      "metrics": {
+        "ttfb": 12120,
+        "domContentLoaded": 13206,
+        "loadEvent": 14227,
+        "fcp": 12688,
+        "lcp": null,
+        "cls": 0,
+        "imagesMissingAlt": 0,
+        "h1Count": 1,
+        "hasMetaDescription": true,
+        "hasViewport": true,
+        "docTitle": "Home | Corporate",
+        "transferSize": 29556
+      },
+      "scores": {
+        "performance": 75,
+        "accessibility": 100,
+        "seo": 100,
+        "bestPractices": 100
+      }
+    }
+  ]
+}

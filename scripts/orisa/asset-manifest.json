@@ -1,0 +1,3544 @@
+{
+  "generatedAt": "2026-06-19T09:15:11.416Z",
+  "orisaThemePath": "/Users/admin/Documents/Theme/Orisa_v4.1.0_Unzip-First",
+  "sourceHtml": {
+    "creative": "index.html",
+    "marketing": "index-3.html",
+    "about": "about-1.html",
+    "contact": "contact-1.html",
+    "digital": "index-2.html",
+    "home-4": "index-4.html",
+    "home-5": "index-5.html",
+    "home-6": "index-6.html",
+    "home-7": "index-7.html",
+    "home-8": "index-8.html",
+    "home-9": "index-9.html",
+    "home-10": "index-10.html",
+    "home-11": "index-11.html",
+    "home-12": "index-12.html",
+    "home-13": "index-13.html",
+    "home-14": "index-14.html",
+    "home-15": "index-15.html",
+    "about-2": "about-2.html",
+    "about-3": "about-3.html",
+    "contact-2": "contact-2.html",
+    "portfolio-cinema": "portfolio-cinema.html"
+  },
+  "buckets": {
+    "shared": [
+      {
+        "relativePath": "assets/imgs/pages/img-17.webp",
+        "seedPath": "pages/img-17.webp",
+        "dest": "public/seed/orisa/shared/pages/img-17.webp",
+        "filename": "img-17.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-18.webp",
+        "seedPath": "pages/img-18.webp",
+        "dest": "public/seed/orisa/shared/pages/img-18.webp",
+        "filename": "img-18.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-19.webp",
+        "seedPath": "pages/img-19.webp",
+        "dest": "public/seed/orisa/shared/pages/img-19.webp",
+        "filename": "img-19.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-20.webp",
+        "seedPath": "pages/img-20.webp",
+        "dest": "public/seed/orisa/shared/pages/img-20.webp",
+        "filename": "img-20.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-10.webp",
+        "seedPath": "template/avatar/avatar-10.webp",
+        "dest": "public/seed/orisa/shared/template/avatar/avatar-10.webp",
+        "filename": "avatar-10.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-11.webp",
+        "seedPath": "template/avatar/avatar-11.webp",
+        "dest": "public/seed/orisa/shared/template/avatar/avatar-11.webp",
+        "filename": "avatar-11.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-12.webp",
+        "seedPath": "template/avatar/avatar-12.webp",
+        "dest": "public/seed/orisa/shared/template/avatar/avatar-12.webp",
+        "filename": "avatar-12.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-13.webp",
+        "seedPath": "template/avatar/avatar-13.webp",
+        "dest": "public/seed/orisa/shared/template/avatar/avatar-13.webp",
+        "filename": "avatar-13.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-14.webp",
+        "seedPath": "template/avatar/avatar-14.webp",
+        "dest": "public/seed/orisa/shared/template/avatar/avatar-14.webp",
+        "filename": "avatar-14.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-6.webp",
+        "seedPath": "template/avatar/avatar-6.webp",
+        "dest": "public/seed/orisa/shared/template/avatar/avatar-6.webp",
+        "filename": "avatar-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-8.webp",
+        "seedPath": "template/avatar/avatar-8.webp",
+        "dest": "public/seed/orisa/shared/template/avatar/avatar-8.webp",
+        "filename": "avatar-8.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/favicon.svg",
+        "seedPath": "template/logo/favicon.svg",
+        "dest": "public/seed/orisa/shared/template/logo/favicon.svg",
+        "filename": "favicon.svg"
+      }
+    ],
+    "creative": [
+      {
+        "relativePath": "assets/imgs/icons/badge-1.svg",
+        "seedPath": "icons/badge-1.svg",
+        "dest": "public/seed/orisa/creative/icons/badge-1.svg",
+        "filename": "badge-1.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/badge-2.svg",
+        "seedPath": "icons/badge-2.svg",
+        "dest": "public/seed/orisa/creative/icons/badge-2.svg",
+        "filename": "badge-2.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-1.webp",
+        "seedPath": "icons/brand-1.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-1.webp",
+        "filename": "brand-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-2.webp",
+        "seedPath": "icons/brand-2.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-2.webp",
+        "filename": "brand-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-3.webp",
+        "seedPath": "icons/brand-3.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-3.webp",
+        "filename": "brand-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-4.webp",
+        "seedPath": "icons/brand-4.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-4.webp",
+        "filename": "brand-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-5.webp",
+        "seedPath": "icons/brand-5.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-5.webp",
+        "filename": "brand-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-6.webp",
+        "seedPath": "icons/brand-6.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-6.webp",
+        "filename": "brand-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-7.webp",
+        "seedPath": "icons/brand-7.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-7.webp",
+        "filename": "brand-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-8.webp",
+        "seedPath": "icons/brand-8.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-8.webp",
+        "filename": "brand-8.webp"
+      },
+      {
+        "relativePath": "assets/imgs/icons/brand-9.webp",
+        "seedPath": "icons/brand-9.webp",
+        "dest": "public/seed/orisa/creative/icons/brand-9.webp",
+        "filename": "brand-9.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/bg-img.webp",
+        "seedPath": "pages/bg-img.webp",
+        "dest": "public/seed/orisa/creative/pages/bg-img.webp",
+        "filename": "bg-img.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-1.webp",
+        "seedPath": "pages/img-1.webp",
+        "dest": "public/seed/orisa/creative/pages/img-1.webp",
+        "filename": "img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-10-sm.webp",
+        "seedPath": "pages/img-10-sm.webp",
+        "dest": "public/seed/orisa/creative/pages/img-10-sm.webp",
+        "filename": "img-10-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-10.webp",
+        "seedPath": "pages/img-10.webp",
+        "dest": "public/seed/orisa/creative/pages/img-10.webp",
+        "filename": "img-10.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-11.webp",
+        "seedPath": "pages/img-11.webp",
+        "dest": "public/seed/orisa/creative/pages/img-11.webp",
+        "filename": "img-11.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-12.webp",
+        "seedPath": "pages/img-12.webp",
+        "dest": "public/seed/orisa/creative/pages/img-12.webp",
+        "filename": "img-12.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-13.webp",
+        "seedPath": "pages/img-13.webp",
+        "dest": "public/seed/orisa/creative/pages/img-13.webp",
+        "filename": "img-13.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-14.webp",
+        "seedPath": "pages/img-14.webp",
+        "dest": "public/seed/orisa/creative/pages/img-14.webp",
+        "filename": "img-14.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-15.webp",
+        "seedPath": "pages/img-15.webp",
+        "dest": "public/seed/orisa/creative/pages/img-15.webp",
+        "filename": "img-15.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-16.webp",
+        "seedPath": "pages/img-16.webp",
+        "dest": "public/seed/orisa/creative/pages/img-16.webp",
+        "filename": "img-16.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-2.webp",
+        "seedPath": "pages/img-2.webp",
+        "dest": "public/seed/orisa/creative/pages/img-2.webp",
+        "filename": "img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-21.webp",
+        "seedPath": "pages/img-21.webp",
+        "dest": "public/seed/orisa/creative/pages/img-21.webp",
+        "filename": "img-21.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-22.webp",
+        "seedPath": "pages/img-22.webp",
+        "dest": "public/seed/orisa/creative/pages/img-22.webp",
+        "filename": "img-22.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-23.webp",
+        "seedPath": "pages/img-23.webp",
+        "dest": "public/seed/orisa/creative/pages/img-23.webp",
+        "filename": "img-23.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-24.webp",
+        "seedPath": "pages/img-24.webp",
+        "dest": "public/seed/orisa/creative/pages/img-24.webp",
+        "filename": "img-24.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-25.webp",
+        "seedPath": "pages/img-25.webp",
+        "dest": "public/seed/orisa/creative/pages/img-25.webp",
+        "filename": "img-25.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-26.webp",
+        "seedPath": "pages/img-26.webp",
+        "dest": "public/seed/orisa/creative/pages/img-26.webp",
+        "filename": "img-26.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-3.webp",
+        "seedPath": "pages/img-3.webp",
+        "dest": "public/seed/orisa/creative/pages/img-3.webp",
+        "filename": "img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-4.webp",
+        "seedPath": "pages/img-4.webp",
+        "dest": "public/seed/orisa/creative/pages/img-4.webp",
+        "filename": "img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-5-sm.webp",
+        "seedPath": "pages/img-5-sm.webp",
+        "dest": "public/seed/orisa/creative/pages/img-5-sm.webp",
+        "filename": "img-5-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-5.webp",
+        "seedPath": "pages/img-5.webp",
+        "dest": "public/seed/orisa/creative/pages/img-5.webp",
+        "filename": "img-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-6-sm.webp",
+        "seedPath": "pages/img-6-sm.webp",
+        "dest": "public/seed/orisa/creative/pages/img-6-sm.webp",
+        "filename": "img-6-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-6.webp",
+        "seedPath": "pages/img-6.webp",
+        "dest": "public/seed/orisa/creative/pages/img-6.webp",
+        "filename": "img-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-7-sm.webp",
+        "seedPath": "pages/img-7-sm.webp",
+        "dest": "public/seed/orisa/creative/pages/img-7-sm.webp",
+        "filename": "img-7-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-7.webp",
+        "seedPath": "pages/img-7.webp",
+        "dest": "public/seed/orisa/creative/pages/img-7.webp",
+        "filename": "img-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-8-sm.webp",
+        "seedPath": "pages/img-8-sm.webp",
+        "dest": "public/seed/orisa/creative/pages/img-8-sm.webp",
+        "filename": "img-8-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-8.webp",
+        "seedPath": "pages/img-8.webp",
+        "dest": "public/seed/orisa/creative/pages/img-8.webp",
+        "filename": "img-8.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-9-sm.webp",
+        "seedPath": "pages/img-9-sm.webp",
+        "dest": "public/seed/orisa/creative/pages/img-9-sm.webp",
+        "filename": "img-9-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-9.webp",
+        "seedPath": "pages/img-9.webp",
+        "dest": "public/seed/orisa/creative/pages/img-9.webp",
+        "filename": "img-9.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-1.webp",
+        "seedPath": "template/avatar/avatar-1.webp",
+        "dest": "public/seed/orisa/creative/template/avatar/avatar-1.webp",
+        "filename": "avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-2.webp",
+        "seedPath": "template/avatar/avatar-2.webp",
+        "dest": "public/seed/orisa/creative/template/avatar/avatar-2.webp",
+        "filename": "avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-3.webp",
+        "seedPath": "template/avatar/avatar-3.webp",
+        "dest": "public/seed/orisa/creative/template/avatar/avatar-3.webp",
+        "filename": "avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-4.webp",
+        "seedPath": "template/avatar/avatar-4.webp",
+        "dest": "public/seed/orisa/creative/template/avatar/avatar-4.webp",
+        "filename": "avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-5.webp",
+        "seedPath": "template/avatar/avatar-5.webp",
+        "dest": "public/seed/orisa/creative/template/avatar/avatar-5.webp",
+        "filename": "avatar-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-7.webp",
+        "seedPath": "template/avatar/avatar-7.webp",
+        "dest": "public/seed/orisa/creative/template/avatar/avatar-7.webp",
+        "filename": "avatar-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/favicon-dark.svg",
+        "seedPath": "template/logo/favicon-dark.svg",
+        "dest": "public/seed/orisa/creative/template/logo/favicon-dark.svg",
+        "filename": "favicon-dark.svg"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-w-lg.png",
+        "seedPath": "template/logo/logo-w-lg.png",
+        "dest": "public/seed/orisa/creative/template/logo/logo-w-lg.png",
+        "filename": "logo-w-lg.png"
+      },
+      {
+        "relativePath": "assets/imgs/video/video-1.mp4",
+        "seedPath": "video/video-1.mp4",
+        "dest": "public/seed/orisa/creative/video/video-1.mp4",
+        "filename": "video-1.mp4"
+      }
+    ],
+    "marketing": [
+      {
+        "relativePath": "assets/imgs/pages/bg-img-3.webp",
+        "seedPath": "pages/bg-img-3.webp",
+        "dest": "public/seed/orisa/marketing/pages/bg-img-3.webp",
+        "filename": "bg-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-51.webp",
+        "seedPath": "pages/img-51.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-51.webp",
+        "filename": "img-51.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-52.webp",
+        "seedPath": "pages/img-52.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-52.webp",
+        "filename": "img-52.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-53.webp",
+        "seedPath": "pages/img-53.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-53.webp",
+        "filename": "img-53.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-54.webp",
+        "seedPath": "pages/img-54.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-54.webp",
+        "filename": "img-54.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-55.webp",
+        "seedPath": "pages/img-55.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-55.webp",
+        "filename": "img-55.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-56.webp",
+        "seedPath": "pages/img-56.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-56.webp",
+        "filename": "img-56.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-57.webp",
+        "seedPath": "pages/img-57.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-57.webp",
+        "filename": "img-57.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-58.webp",
+        "seedPath": "pages/img-58.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-58.webp",
+        "filename": "img-58.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-59.webp",
+        "seedPath": "pages/img-59.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-59.webp",
+        "filename": "img-59.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-60.webp",
+        "seedPath": "pages/img-60.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-60.webp",
+        "filename": "img-60.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-61.webp",
+        "seedPath": "pages/img-61.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-61.webp",
+        "filename": "img-61.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-62.webp",
+        "seedPath": "pages/img-62.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-62.webp",
+        "filename": "img-62.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-63.webp",
+        "seedPath": "pages/img-63.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-63.webp",
+        "filename": "img-63.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-64.webp",
+        "seedPath": "pages/img-64.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-64.webp",
+        "filename": "img-64.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-65.webp",
+        "seedPath": "pages/img-65.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-65.webp",
+        "filename": "img-65.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-66.webp",
+        "seedPath": "pages/img-66.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-66.webp",
+        "filename": "img-66.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-67.webp",
+        "seedPath": "pages/img-67.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-67.webp",
+        "filename": "img-67.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-68.webp",
+        "seedPath": "pages/img-68.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-68.webp",
+        "filename": "img-68.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-69.webp",
+        "seedPath": "pages/img-69.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-69.webp",
+        "filename": "img-69.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-70.webp",
+        "seedPath": "pages/img-70.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-70.webp",
+        "filename": "img-70.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-71.webp",
+        "seedPath": "pages/img-71.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-71.webp",
+        "filename": "img-71.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-72.webp",
+        "seedPath": "pages/img-72.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-72.webp",
+        "filename": "img-72.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-73.webp",
+        "seedPath": "pages/img-73.webp",
+        "dest": "public/seed/orisa/marketing/pages/img-73.webp",
+        "filename": "img-73.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-15.webp",
+        "seedPath": "template/avatar/avatar-15.webp",
+        "dest": "public/seed/orisa/marketing/template/avatar/avatar-15.webp",
+        "filename": "avatar-15.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-16.webp",
+        "seedPath": "template/avatar/avatar-16.webp",
+        "dest": "public/seed/orisa/marketing/template/avatar/avatar-16.webp",
+        "filename": "avatar-16.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-17.webp",
+        "seedPath": "template/avatar/avatar-17.webp",
+        "dest": "public/seed/orisa/marketing/template/avatar/avatar-17.webp",
+        "filename": "avatar-17.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-18.webp",
+        "seedPath": "template/avatar/avatar-18.webp",
+        "dest": "public/seed/orisa/marketing/template/avatar/avatar-18.webp",
+        "filename": "avatar-18.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-19.webp",
+        "seedPath": "template/avatar/avatar-19.webp",
+        "dest": "public/seed/orisa/marketing/template/avatar/avatar-19.webp",
+        "filename": "avatar-19.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/favicon-md.webp",
+        "seedPath": "template/logo/favicon-md.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/favicon-md.webp",
+        "filename": "favicon-md.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-01.webp",
+        "seedPath": "template/logo/logo-brand-01.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-01.webp",
+        "filename": "logo-brand-01.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-02.webp",
+        "seedPath": "template/logo/logo-brand-02.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-02.webp",
+        "filename": "logo-brand-02.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-03.webp",
+        "seedPath": "template/logo/logo-brand-03.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-03.webp",
+        "filename": "logo-brand-03.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-04.webp",
+        "seedPath": "template/logo/logo-brand-04.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-04.webp",
+        "filename": "logo-brand-04.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-05.webp",
+        "seedPath": "template/logo/logo-brand-05.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-05.webp",
+        "filename": "logo-brand-05.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-06.webp",
+        "seedPath": "template/logo/logo-brand-06.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-06.webp",
+        "filename": "logo-brand-06.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-07.webp",
+        "seedPath": "template/logo/logo-brand-07.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-07.webp",
+        "filename": "logo-brand-07.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-08.webp",
+        "seedPath": "template/logo/logo-brand-08.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-08.webp",
+        "filename": "logo-brand-08.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-09.webp",
+        "seedPath": "template/logo/logo-brand-09.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-09.webp",
+        "filename": "logo-brand-09.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-brand-10.webp",
+        "seedPath": "template/logo/logo-brand-10.webp",
+        "dest": "public/seed/orisa/marketing/template/logo/logo-brand-10.webp",
+        "filename": "logo-brand-10.webp"
+      }
+    ],
+    "about": [
+      {
+        "relativePath": "assets/imgs/pages/img-117.webp",
+        "seedPath": "pages/img-117.webp",
+        "dest": "public/seed/orisa/about/pages/img-117.webp",
+        "filename": "img-117.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-118.webp",
+        "seedPath": "pages/img-118.webp",
+        "dest": "public/seed/orisa/about/pages/img-118.webp",
+        "filename": "img-118.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-119.webp",
+        "seedPath": "pages/img-119.webp",
+        "dest": "public/seed/orisa/about/pages/img-119.webp",
+        "filename": "img-119.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-120.webp",
+        "seedPath": "pages/img-120.webp",
+        "dest": "public/seed/orisa/about/pages/img-120.webp",
+        "filename": "img-120.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-121.webp",
+        "seedPath": "pages/img-121.webp",
+        "dest": "public/seed/orisa/about/pages/img-121.webp",
+        "filename": "img-121.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-40-lg.webp",
+        "seedPath": "pages/img-40-lg.webp",
+        "dest": "public/seed/orisa/about/pages/img-40-lg.webp",
+        "filename": "img-40-lg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-40.webp",
+        "seedPath": "pages/img-40.webp",
+        "dest": "public/seed/orisa/about/pages/img-40.webp",
+        "filename": "img-40.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-41-lg.webp",
+        "seedPath": "pages/img-41-lg.webp",
+        "dest": "public/seed/orisa/about/pages/img-41-lg.webp",
+        "filename": "img-41-lg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-41.webp",
+        "seedPath": "pages/img-41.webp",
+        "dest": "public/seed/orisa/about/pages/img-41.webp",
+        "filename": "img-41.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-42-lg.webp",
+        "seedPath": "pages/img-42-lg.webp",
+        "dest": "public/seed/orisa/about/pages/img-42-lg.webp",
+        "filename": "img-42-lg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-42.webp",
+        "seedPath": "pages/img-42.webp",
+        "dest": "public/seed/orisa/about/pages/img-42.webp",
+        "filename": "img-42.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-43-lg.webp",
+        "seedPath": "pages/img-43-lg.webp",
+        "dest": "public/seed/orisa/about/pages/img-43-lg.webp",
+        "filename": "img-43-lg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-43.webp",
+        "seedPath": "pages/img-43.webp",
+        "dest": "public/seed/orisa/about/pages/img-43.webp",
+        "filename": "img-43.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-44-lg.webp",
+        "seedPath": "pages/img-44-lg.webp",
+        "dest": "public/seed/orisa/about/pages/img-44-lg.webp",
+        "filename": "img-44-lg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-44.webp",
+        "seedPath": "pages/img-44.webp",
+        "dest": "public/seed/orisa/about/pages/img-44.webp",
+        "filename": "img-44.webp"
+      }
+    ],
+    "contact": [
+      {
+        "relativePath": "assets/imgs/pages/img-166.webp",
+        "seedPath": "pages/img-166.webp",
+        "dest": "public/seed/orisa/contact/pages/img-166.webp",
+        "filename": "img-166.webp"
+      }
+    ],
+    "digital": [
+      {
+        "relativePath": "assets/imgs/pages/bg-img-2.webp",
+        "seedPath": "pages/bg-img-2.webp",
+        "dest": "public/seed/orisa/digital/pages/bg-img-2.webp",
+        "filename": "bg-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-27.webp",
+        "seedPath": "pages/img-27.webp",
+        "dest": "public/seed/orisa/digital/pages/img-27.webp",
+        "filename": "img-27.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-28.webp",
+        "seedPath": "pages/img-28.webp",
+        "dest": "public/seed/orisa/digital/pages/img-28.webp",
+        "filename": "img-28.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-29.webp",
+        "seedPath": "pages/img-29.webp",
+        "dest": "public/seed/orisa/digital/pages/img-29.webp",
+        "filename": "img-29.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-30.webp",
+        "seedPath": "pages/img-30.webp",
+        "dest": "public/seed/orisa/digital/pages/img-30.webp",
+        "filename": "img-30.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-31.webp",
+        "seedPath": "pages/img-31.webp",
+        "dest": "public/seed/orisa/digital/pages/img-31.webp",
+        "filename": "img-31.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-32.webp",
+        "seedPath": "pages/img-32.webp",
+        "dest": "public/seed/orisa/digital/pages/img-32.webp",
+        "filename": "img-32.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-33.webp",
+        "seedPath": "pages/img-33.webp",
+        "dest": "public/seed/orisa/digital/pages/img-33.webp",
+        "filename": "img-33.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-34.webp",
+        "seedPath": "pages/img-34.webp",
+        "dest": "public/seed/orisa/digital/pages/img-34.webp",
+        "filename": "img-34.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-35.webp",
+        "seedPath": "pages/img-35.webp",
+        "dest": "public/seed/orisa/digital/pages/img-35.webp",
+        "filename": "img-35.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-36.webp",
+        "seedPath": "pages/img-36.webp",
+        "dest": "public/seed/orisa/digital/pages/img-36.webp",
+        "filename": "img-36.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-37.webp",
+        "seedPath": "pages/img-37.webp",
+        "dest": "public/seed/orisa/digital/pages/img-37.webp",
+        "filename": "img-37.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-38.webp",
+        "seedPath": "pages/img-38.webp",
+        "dest": "public/seed/orisa/digital/pages/img-38.webp",
+        "filename": "img-38.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-39.webp",
+        "seedPath": "pages/img-39.webp",
+        "dest": "public/seed/orisa/digital/pages/img-39.webp",
+        "filename": "img-39.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-45.webp",
+        "seedPath": "pages/img-45.webp",
+        "dest": "public/seed/orisa/digital/pages/img-45.webp",
+        "filename": "img-45.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-46.webp",
+        "seedPath": "pages/img-46.webp",
+        "dest": "public/seed/orisa/digital/pages/img-46.webp",
+        "filename": "img-46.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-47.webp",
+        "seedPath": "pages/img-47.webp",
+        "dest": "public/seed/orisa/digital/pages/img-47.webp",
+        "filename": "img-47.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-48.webp",
+        "seedPath": "pages/img-48.webp",
+        "dest": "public/seed/orisa/digital/pages/img-48.webp",
+        "filename": "img-48.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-49.webp",
+        "seedPath": "pages/img-49.webp",
+        "dest": "public/seed/orisa/digital/pages/img-49.webp",
+        "filename": "img-49.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-50.webp",
+        "seedPath": "pages/img-50.webp",
+        "dest": "public/seed/orisa/digital/pages/img-50.webp",
+        "filename": "img-50.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/noise.gif",
+        "seedPath": "pages/noise.gif",
+        "dest": "public/seed/orisa/digital/pages/noise.gif",
+        "filename": "noise.gif"
+      },
+      {
+        "relativePath": "assets/imgs/template/avatar/avatar-9.webp",
+        "seedPath": "template/avatar/avatar-9.webp",
+        "dest": "public/seed/orisa/digital/template/avatar/avatar-9.webp",
+        "filename": "avatar-9.webp"
+      },
+      {
+        "relativePath": "assets/imgs/video/live-bg.mov",
+        "seedPath": "video/live-bg.mov",
+        "dest": "public/seed/orisa/digital/video/live-bg.mov",
+        "filename": "live-bg.mov"
+      }
+    ],
+    "home-4": [
+      {
+        "relativePath": "assets/imgs/pages/bg-img-4.webp",
+        "seedPath": "pages/bg-img-4.webp",
+        "dest": "public/seed/orisa/home-4/pages/bg-img-4.webp",
+        "filename": "bg-img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/bg-img-5.webp",
+        "seedPath": "pages/bg-img-5.webp",
+        "dest": "public/seed/orisa/home-4/pages/bg-img-5.webp",
+        "filename": "bg-img-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/bg-img-6.webp",
+        "seedPath": "pages/bg-img-6.webp",
+        "dest": "public/seed/orisa/home-4/pages/bg-img-6.webp",
+        "filename": "bg-img-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/bg-img-7.webp",
+        "seedPath": "pages/bg-img-7.webp",
+        "dest": "public/seed/orisa/home-4/pages/bg-img-7.webp",
+        "filename": "bg-img-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-100.webp",
+        "seedPath": "pages/img-100.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-100.webp",
+        "filename": "img-100.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-74.webp",
+        "seedPath": "pages/img-74.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-74.webp",
+        "filename": "img-74.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-75.webp",
+        "seedPath": "pages/img-75.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-75.webp",
+        "filename": "img-75.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-76.webp",
+        "seedPath": "pages/img-76.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-76.webp",
+        "filename": "img-76.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-77.webp",
+        "seedPath": "pages/img-77.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-77.webp",
+        "filename": "img-77.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-78.webp",
+        "seedPath": "pages/img-78.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-78.webp",
+        "filename": "img-78.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-79.webp",
+        "seedPath": "pages/img-79.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-79.webp",
+        "filename": "img-79.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-80.webp",
+        "seedPath": "pages/img-80.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-80.webp",
+        "filename": "img-80.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-85.webp",
+        "seedPath": "pages/img-85.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-85.webp",
+        "filename": "img-85.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-86.webp",
+        "seedPath": "pages/img-86.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-86.webp",
+        "filename": "img-86.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-87.webp",
+        "seedPath": "pages/img-87.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-87.webp",
+        "filename": "img-87.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-88.webp",
+        "seedPath": "pages/img-88.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-88.webp",
+        "filename": "img-88.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-89-sm.webp",
+        "seedPath": "pages/img-89-sm.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-89-sm.webp",
+        "filename": "img-89-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-89.webp",
+        "seedPath": "pages/img-89.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-89.webp",
+        "filename": "img-89.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-90-sm.webp",
+        "seedPath": "pages/img-90-sm.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-90-sm.webp",
+        "filename": "img-90-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-90.webp",
+        "seedPath": "pages/img-90.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-90.webp",
+        "filename": "img-90.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-91-sm.webp",
+        "seedPath": "pages/img-91-sm.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-91-sm.webp",
+        "filename": "img-91-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-91.webp",
+        "seedPath": "pages/img-91.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-91.webp",
+        "filename": "img-91.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-92-sm.webp",
+        "seedPath": "pages/img-92-sm.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-92-sm.webp",
+        "filename": "img-92-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-92.webp",
+        "seedPath": "pages/img-92.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-92.webp",
+        "filename": "img-92.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-93-sm.webp",
+        "seedPath": "pages/img-93-sm.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-93-sm.webp",
+        "filename": "img-93-sm.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-93.webp",
+        "seedPath": "pages/img-93.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-93.webp",
+        "filename": "img-93.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-94.webp",
+        "seedPath": "pages/img-94.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-94.webp",
+        "filename": "img-94.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-95.webp",
+        "seedPath": "pages/img-95.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-95.webp",
+        "filename": "img-95.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-96.webp",
+        "seedPath": "pages/img-96.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-96.webp",
+        "filename": "img-96.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-97.webp",
+        "seedPath": "pages/img-97.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-97.webp",
+        "filename": "img-97.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-98.webp",
+        "seedPath": "pages/img-98.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-98.webp",
+        "filename": "img-98.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-99.webp",
+        "seedPath": "pages/img-99.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-99.webp",
+        "filename": "img-99.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-gemstone.webp",
+        "seedPath": "pages/img-gemstone.webp",
+        "dest": "public/seed/orisa/home-4/pages/img-gemstone.webp",
+        "filename": "img-gemstone.webp"
+      }
+    ],
+    "home-5": [
+      {
+        "relativePath": "assets/imgs/pages/img-101.webp",
+        "seedPath": "pages/img-101.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-101.webp",
+        "filename": "img-101.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-102.webp",
+        "seedPath": "pages/img-102.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-102.webp",
+        "filename": "img-102.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-103.webp",
+        "seedPath": "pages/img-103.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-103.webp",
+        "filename": "img-103.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-104.webp",
+        "seedPath": "pages/img-104.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-104.webp",
+        "filename": "img-104.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-105.webp",
+        "seedPath": "pages/img-105.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-105.webp",
+        "filename": "img-105.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-106.webp",
+        "seedPath": "pages/img-106.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-106.webp",
+        "filename": "img-106.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-107.webp",
+        "seedPath": "pages/img-107.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-107.webp",
+        "filename": "img-107.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-108.webp",
+        "seedPath": "pages/img-108.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-108.webp",
+        "filename": "img-108.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-109.webp",
+        "seedPath": "pages/img-109.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-109.webp",
+        "filename": "img-109.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-110.webp",
+        "seedPath": "pages/img-110.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-110.webp",
+        "filename": "img-110.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-111.webp",
+        "seedPath": "pages/img-111.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-111.webp",
+        "filename": "img-111.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-112.webp",
+        "seedPath": "pages/img-112.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-112.webp",
+        "filename": "img-112.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-113.webp",
+        "seedPath": "pages/img-113.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-113.webp",
+        "filename": "img-113.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-114.webp",
+        "seedPath": "pages/img-114.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-114.webp",
+        "filename": "img-114.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-115.webp",
+        "seedPath": "pages/img-115.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-115.webp",
+        "filename": "img-115.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-116.webp",
+        "seedPath": "pages/img-116.webp",
+        "dest": "public/seed/orisa/home-5/pages/img-116.webp",
+        "filename": "img-116.webp"
+      }
+    ],
+    "home-6": [
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-1.webp",
+        "seedPath": "pages/home-6/image-1.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-1.webp",
+        "filename": "image-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-10.webp",
+        "seedPath": "pages/home-6/image-10.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-10.webp",
+        "filename": "image-10.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-11.webp",
+        "seedPath": "pages/home-6/image-11.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-11.webp",
+        "filename": "image-11.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-12.webp",
+        "seedPath": "pages/home-6/image-12.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-12.webp",
+        "filename": "image-12.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-13.webp",
+        "seedPath": "pages/home-6/image-13.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-13.webp",
+        "filename": "image-13.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-14.webp",
+        "seedPath": "pages/home-6/image-14.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-14.webp",
+        "filename": "image-14.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-15.webp",
+        "seedPath": "pages/home-6/image-15.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-15.webp",
+        "filename": "image-15.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-16.webp",
+        "seedPath": "pages/home-6/image-16.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-16.webp",
+        "filename": "image-16.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-17.webp",
+        "seedPath": "pages/home-6/image-17.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-17.webp",
+        "filename": "image-17.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-18.webp",
+        "seedPath": "pages/home-6/image-18.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-18.webp",
+        "filename": "image-18.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-19.webp",
+        "seedPath": "pages/home-6/image-19.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-19.webp",
+        "filename": "image-19.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-2.webp",
+        "seedPath": "pages/home-6/image-2.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-2.webp",
+        "filename": "image-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-20.webp",
+        "seedPath": "pages/home-6/image-20.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-20.webp",
+        "filename": "image-20.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-21.webp",
+        "seedPath": "pages/home-6/image-21.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-21.webp",
+        "filename": "image-21.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-22.webp",
+        "seedPath": "pages/home-6/image-22.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-22.webp",
+        "filename": "image-22.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-23.webp",
+        "seedPath": "pages/home-6/image-23.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-23.webp",
+        "filename": "image-23.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-24.webp",
+        "seedPath": "pages/home-6/image-24.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-24.webp",
+        "filename": "image-24.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-25.webp",
+        "seedPath": "pages/home-6/image-25.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-25.webp",
+        "filename": "image-25.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-26.webp",
+        "seedPath": "pages/home-6/image-26.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-26.webp",
+        "filename": "image-26.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-3.webp",
+        "seedPath": "pages/home-6/image-3.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-3.webp",
+        "filename": "image-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-4.webp",
+        "seedPath": "pages/home-6/image-4.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-4.webp",
+        "filename": "image-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-5.webp",
+        "seedPath": "pages/home-6/image-5.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-5.webp",
+        "filename": "image-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-6.webp",
+        "seedPath": "pages/home-6/image-6.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-6.webp",
+        "filename": "image-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-7.webp",
+        "seedPath": "pages/home-6/image-7.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-7.webp",
+        "filename": "image-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-8.webp",
+        "seedPath": "pages/home-6/image-8.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-8.webp",
+        "filename": "image-8.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-6/image-9.webp",
+        "seedPath": "pages/home-6/image-9.webp",
+        "dest": "public/seed/orisa/home-6/pages/home-6/image-9.webp",
+        "filename": "image-9.webp"
+      }
+    ],
+    "home-7": [
+      {
+        "relativePath": "assets/imgs/pages/home-7/avatar-1.webp",
+        "seedPath": "pages/home-7/avatar-1.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/avatar-1.webp",
+        "filename": "avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/avatar-2.webp",
+        "seedPath": "pages/home-7/avatar-2.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/avatar-2.webp",
+        "filename": "avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/avatar-3.webp",
+        "seedPath": "pages/home-7/avatar-3.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/avatar-3.webp",
+        "filename": "avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/avatar-4.webp",
+        "seedPath": "pages/home-7/avatar-4.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/avatar-4.webp",
+        "filename": "avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/avatar-5.webp",
+        "seedPath": "pages/home-7/avatar-5.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/avatar-5.webp",
+        "filename": "avatar-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/hero-vr.webp",
+        "seedPath": "pages/home-7/hero-vr.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/hero-vr.webp",
+        "filename": "hero-vr.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/insight-1-retro.webp",
+        "seedPath": "pages/home-7/insight-1-retro.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/insight-1-retro.webp",
+        "filename": "insight-1-retro.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/insight-2-office.webp",
+        "seedPath": "pages/home-7/insight-2-office.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/insight-2-office.webp",
+        "filename": "insight-2-office.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/insight-3-fabric.webp",
+        "seedPath": "pages/home-7/insight-3-fabric.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/insight-3-fabric.webp",
+        "filename": "insight-3-fabric.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/insight-4-conference.webp",
+        "seedPath": "pages/home-7/insight-4-conference.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/insight-4-conference.webp",
+        "filename": "insight-4-conference.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/marquee-star.svg",
+        "seedPath": "pages/home-7/marquee-star.svg",
+        "dest": "public/seed/orisa/home-7/pages/home-7/marquee-star.svg",
+        "filename": "marquee-star.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-4-helmet.webp",
+        "seedPath": "pages/home-7/sec-4-helmet.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-4-helmet.webp",
+        "filename": "sec-4-helmet.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-4-pin-icon.svg",
+        "seedPath": "pages/home-7/sec-4-pin-icon.svg",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-4-pin-icon.svg",
+        "filename": "sec-4-pin-icon.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-5-founder.webp",
+        "seedPath": "pages/home-7/sec-5-founder.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-5-founder.webp",
+        "filename": "sec-5-founder.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-7-btn-arrow.svg",
+        "seedPath": "pages/home-7/sec-7-btn-arrow.svg",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-7-btn-arrow.svg",
+        "filename": "sec-7-btn-arrow.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-7-eyebrow-arrow.svg",
+        "seedPath": "pages/home-7/sec-7-eyebrow-arrow.svg",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-7-eyebrow-arrow.svg",
+        "filename": "sec-7-eyebrow-arrow.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-7-photo.webp",
+        "seedPath": "pages/home-7/sec-7-photo.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-7-photo.webp",
+        "filename": "sec-7-photo.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-7-plus.svg",
+        "seedPath": "pages/home-7/sec-7-plus.svg",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-7-plus.svg",
+        "filename": "sec-7-plus.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec-7-rotating.svg",
+        "seedPath": "pages/home-7/sec-7-rotating.svg",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec-7-rotating.svg",
+        "filename": "sec-7-rotating.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec2-img-1.webp",
+        "seedPath": "pages/home-7/sec2-img-1.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec2-img-1.webp",
+        "filename": "sec2-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec2-img-2.webp",
+        "seedPath": "pages/home-7/sec2-img-2.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec2-img-2.webp",
+        "filename": "sec2-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/sec2-img-3.webp",
+        "seedPath": "pages/home-7/sec2-img-3.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/sec2-img-3.webp",
+        "filename": "sec2-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/star-asterisk.svg",
+        "seedPath": "pages/home-7/star-asterisk.svg",
+        "dest": "public/seed/orisa/home-7/pages/home-7/star-asterisk.svg",
+        "filename": "star-asterisk.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/step-1.webp",
+        "seedPath": "pages/home-7/step-1.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/step-1.webp",
+        "filename": "step-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/step-2.webp",
+        "seedPath": "pages/home-7/step-2.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/step-2.webp",
+        "filename": "step-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/step-3.webp",
+        "seedPath": "pages/home-7/step-3.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/step-3.webp",
+        "filename": "step-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/step-4.webp",
+        "seedPath": "pages/home-7/step-4.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/step-4.webp",
+        "filename": "step-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/team-1-darrell.webp",
+        "seedPath": "pages/home-7/team-1-darrell.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/team-1-darrell.webp",
+        "filename": "team-1-darrell.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/team-2-amelia.webp",
+        "seedPath": "pages/home-7/team-2-amelia.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/team-2-amelia.webp",
+        "filename": "team-2-amelia.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/team-3-esther.webp",
+        "seedPath": "pages/home-7/team-3-esther.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/team-3-esther.webp",
+        "filename": "team-3-esther.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-7/team-4-jacob.webp",
+        "seedPath": "pages/home-7/team-4-jacob.webp",
+        "dest": "public/seed/orisa/home-7/pages/home-7/team-4-jacob.webp",
+        "filename": "team-4-jacob.webp"
+      }
+    ],
+    "home-8": [
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-bg.webp",
+        "seedPath": "pages/home-8/footer-8-bg.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-bg.webp",
+        "filename": "footer-8-bg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-fb.svg",
+        "seedPath": "pages/home-8/footer-8-fb.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-fb.svg",
+        "filename": "footer-8-fb.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-ig.svg",
+        "seedPath": "pages/home-8/footer-8-ig.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-ig.svg",
+        "filename": "footer-8-ig.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-in.svg",
+        "seedPath": "pages/home-8/footer-8-in.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-in.svg",
+        "filename": "footer-8-in.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-nav-arrow.svg",
+        "seedPath": "pages/home-8/footer-8-nav-arrow.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-nav-arrow.svg",
+        "filename": "footer-8-nav-arrow.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-social-arrow-2.svg",
+        "seedPath": "pages/home-8/footer-8-social-arrow-2.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-social-arrow-2.svg",
+        "filename": "footer-8-social-arrow-2.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-social-arrow.svg",
+        "seedPath": "pages/home-8/footer-8-social-arrow.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-social-arrow.svg",
+        "filename": "footer-8-social-arrow.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-x.svg",
+        "seedPath": "pages/home-8/footer-8-x.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-x.svg",
+        "filename": "footer-8-x.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/footer-8-yt.svg",
+        "seedPath": "pages/home-8/footer-8-yt.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/footer-8-yt.svg",
+        "filename": "footer-8-yt.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-img-1.webp",
+        "seedPath": "pages/home-8/hero8-img-1.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-img-1.webp",
+        "filename": "hero8-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-img-2.webp",
+        "seedPath": "pages/home-8/hero8-img-2.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-img-2.webp",
+        "filename": "hero8-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-img-3.webp",
+        "seedPath": "pages/home-8/hero8-img-3.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-img-3.webp",
+        "filename": "hero8-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-img-4.webp",
+        "seedPath": "pages/home-8/hero8-img-4.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-img-4.webp",
+        "filename": "hero8-img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-img-5.webp",
+        "seedPath": "pages/home-8/hero8-img-5.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-img-5.webp",
+        "filename": "hero8-img-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-img-6.webp",
+        "seedPath": "pages/home-8/hero8-img-6.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-img-6.webp",
+        "filename": "hero8-img-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-img-8.gif",
+        "seedPath": "pages/home-8/hero8-img-8.gif",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-img-8.gif",
+        "filename": "hero8-img-8.gif"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-sec3-img-1.webp",
+        "seedPath": "pages/home-8/hero8-sec3-img-1.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-sec3-img-1.webp",
+        "filename": "hero8-sec3-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-sec3-img-2.webp",
+        "seedPath": "pages/home-8/hero8-sec3-img-2.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-sec3-img-2.webp",
+        "filename": "hero8-sec3-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-sec4-hover-1.webp",
+        "seedPath": "pages/home-8/hero8-sec4-hover-1.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-sec4-hover-1.webp",
+        "filename": "hero8-sec4-hover-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-sec4-hover-2.webp",
+        "seedPath": "pages/home-8/hero8-sec4-hover-2.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-sec4-hover-2.webp",
+        "filename": "hero8-sec4-hover-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-sec4-hover-3.webp",
+        "seedPath": "pages/home-8/hero8-sec4-hover-3.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-sec4-hover-3.webp",
+        "filename": "hero8-sec4-hover-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/hero8-sec4-hover-4.webp",
+        "seedPath": "pages/home-8/hero8-sec4-hover-4.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/hero8-sec4-hover-4.webp",
+        "filename": "hero8-sec4-hover-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec-10-1.webp",
+        "seedPath": "pages/home-8/sec-10-1.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec-10-1.webp",
+        "filename": "sec-10-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec-10-2.webp",
+        "seedPath": "pages/home-8/sec-10-2.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec-10-2.webp",
+        "filename": "sec-10-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec-10-3.webp",
+        "seedPath": "pages/home-8/sec-10-3.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec-10-3.webp",
+        "filename": "sec-10-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec6-work-1.webp",
+        "seedPath": "pages/home-8/sec6-work-1.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec6-work-1.webp",
+        "filename": "sec6-work-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec6-work-2.webp",
+        "seedPath": "pages/home-8/sec6-work-2.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec6-work-2.webp",
+        "filename": "sec6-work-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec6-work-3.webp",
+        "seedPath": "pages/home-8/sec6-work-3.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec6-work-3.webp",
+        "filename": "sec6-work-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec6-work-4.webp",
+        "seedPath": "pages/home-8/sec6-work-4.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec6-work-4.webp",
+        "filename": "sec6-work-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec6-work-5.webp",
+        "seedPath": "pages/home-8/sec6-work-5.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec6-work-5.webp",
+        "filename": "sec6-work-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec6-work-6.webp",
+        "seedPath": "pages/home-8/sec6-work-6.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec6-work-6.webp",
+        "filename": "sec6-work-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec6-work-7.webp",
+        "seedPath": "pages/home-8/sec6-work-7.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec6-work-7.webp",
+        "filename": "sec6-work-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec7-img-1.webp",
+        "seedPath": "pages/home-8/sec7-img-1.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec7-img-1.webp",
+        "filename": "sec7-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec7-img-2.webp",
+        "seedPath": "pages/home-8/sec7-img-2.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec7-img-2.webp",
+        "filename": "sec7-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec7-img-3.webp",
+        "seedPath": "pages/home-8/sec7-img-3.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec7-img-3.webp",
+        "filename": "sec7-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec7-img-4.webp",
+        "seedPath": "pages/home-8/sec7-img-4.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec7-img-4.webp",
+        "filename": "sec7-img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec7-img-5.webp",
+        "seedPath": "pages/home-8/sec7-img-5.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec7-img-5.webp",
+        "filename": "sec7-img-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec7-img-6.webp",
+        "seedPath": "pages/home-8/sec7-img-6.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec7-img-6.webp",
+        "filename": "sec7-img-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec8-arrow.svg",
+        "seedPath": "pages/home-8/sec8-arrow.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec8-arrow.svg",
+        "filename": "sec8-arrow.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec8-asterisk.svg",
+        "seedPath": "pages/home-8/sec8-asterisk.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec8-asterisk.svg",
+        "filename": "sec8-asterisk.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec8-avatar-1.webp",
+        "seedPath": "pages/home-8/sec8-avatar-1.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec8-avatar-1.webp",
+        "filename": "sec8-avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec8-avatar-2.webp",
+        "seedPath": "pages/home-8/sec8-avatar-2.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec8-avatar-2.webp",
+        "filename": "sec8-avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec8-avatar-3.webp",
+        "seedPath": "pages/home-8/sec8-avatar-3.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec8-avatar-3.webp",
+        "filename": "sec8-avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec8-avatar-4.webp",
+        "seedPath": "pages/home-8/sec8-avatar-4.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec8-avatar-4.webp",
+        "filename": "sec8-avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec8-star.svg",
+        "seedPath": "pages/home-8/sec8-star.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec8-star.svg",
+        "filename": "sec8-star.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec9-arrow.svg",
+        "seedPath": "pages/home-8/sec9-arrow.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec9-arrow.svg",
+        "filename": "sec9-arrow.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec9-bg-blur.webp",
+        "seedPath": "pages/home-8/sec9-bg-blur.webp",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec9-bg-blur.webp",
+        "filename": "sec9-bg-blur.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-8/sec9-btn-icon.svg",
+        "seedPath": "pages/home-8/sec9-btn-icon.svg",
+        "dest": "public/seed/orisa/home-8/pages/home-8/sec9-btn-icon.svg",
+        "filename": "sec9-btn-icon.svg"
+      }
+    ],
+    "home-9": [
+      {
+        "relativePath": "assets/imgs/pages/home-9/footer-9-line.webp",
+        "seedPath": "pages/home-9/footer-9-line.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/footer-9-line.webp",
+        "filename": "footer-9-line.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-2.svg",
+        "seedPath": "pages/home-9/logo-2.svg",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-2.svg",
+        "filename": "logo-2.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-3.svg",
+        "seedPath": "pages/home-9/logo-3.svg",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-3.svg",
+        "filename": "logo-3.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-4.svg",
+        "seedPath": "pages/home-9/logo-4.svg",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-4.svg",
+        "filename": "logo-4.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-brand-01.webp",
+        "seedPath": "pages/home-9/logo-brand-01.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-brand-01.webp",
+        "filename": "logo-brand-01.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-brand-02.webp",
+        "seedPath": "pages/home-9/logo-brand-02.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-brand-02.webp",
+        "filename": "logo-brand-02.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-brand-03.webp",
+        "seedPath": "pages/home-9/logo-brand-03.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-brand-03.webp",
+        "filename": "logo-brand-03.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-brand-04.webp",
+        "seedPath": "pages/home-9/logo-brand-04.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-brand-04.webp",
+        "filename": "logo-brand-04.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-brand-06.webp",
+        "seedPath": "pages/home-9/logo-brand-06.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-brand-06.webp",
+        "filename": "logo-brand-06.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/logo-brand-07.webp",
+        "seedPath": "pages/home-9/logo-brand-07.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/logo-brand-07.webp",
+        "filename": "logo-brand-07.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-1-thumb-1.webp",
+        "seedPath": "pages/home-9/sec-1-thumb-1.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-1-thumb-1.webp",
+        "filename": "sec-1-thumb-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-1-thumb-2.webp",
+        "seedPath": "pages/home-9/sec-1-thumb-2.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-1-thumb-2.webp",
+        "filename": "sec-1-thumb-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-1-thumb-3.webp",
+        "seedPath": "pages/home-9/sec-1-thumb-3.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-1-thumb-3.webp",
+        "filename": "sec-1-thumb-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-2-lines.svg",
+        "seedPath": "pages/home-9/sec-2-lines.svg",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-2-lines.svg",
+        "filename": "sec-2-lines.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-3-eyebrow-arrow.svg",
+        "seedPath": "pages/home-9/sec-3-eyebrow-arrow.svg",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-3-eyebrow-arrow.svg",
+        "filename": "sec-3-eyebrow-arrow.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-3-img-0.webp",
+        "seedPath": "pages/home-9/sec-3-img-0.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-3-img-0.webp",
+        "filename": "sec-3-img-0.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-3-img-1.webp",
+        "seedPath": "pages/home-9/sec-3-img-1.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-3-img-1.webp",
+        "filename": "sec-3-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-3-img-2.webp",
+        "seedPath": "pages/home-9/sec-3-img-2.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-3-img-2.webp",
+        "filename": "sec-3-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-3-img-3.webp",
+        "seedPath": "pages/home-9/sec-3-img-3.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-3-img-3.webp",
+        "filename": "sec-3-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-4-img-1.webp",
+        "seedPath": "pages/home-9/sec-4-img-1.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-4-img-1.webp",
+        "filename": "sec-4-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-4-img-2.webp",
+        "seedPath": "pages/home-9/sec-4-img-2.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-4-img-2.webp",
+        "filename": "sec-4-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-4-img-3.webp",
+        "seedPath": "pages/home-9/sec-4-img-3.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-4-img-3.webp",
+        "filename": "sec-4-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-4-img-4.webp",
+        "seedPath": "pages/home-9/sec-4-img-4.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-4-img-4.webp",
+        "filename": "sec-4-img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-4-img-5.webp",
+        "seedPath": "pages/home-9/sec-4-img-5.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-4-img-5.webp",
+        "filename": "sec-4-img-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-4-img-6.webp",
+        "seedPath": "pages/home-9/sec-4-img-6.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-4-img-6.webp",
+        "filename": "sec-4-img-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-5-img-1.webp",
+        "seedPath": "pages/home-9/sec-5-img-1.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-5-img-1.webp",
+        "filename": "sec-5-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-avatar-1.webp",
+        "seedPath": "pages/home-9/sec-6-avatar-1.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-avatar-1.webp",
+        "filename": "sec-6-avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-avatar-2.webp",
+        "seedPath": "pages/home-9/sec-6-avatar-2.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-avatar-2.webp",
+        "filename": "sec-6-avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-avatar-3.webp",
+        "seedPath": "pages/home-9/sec-6-avatar-3.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-avatar-3.webp",
+        "filename": "sec-6-avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-avatar-4.webp",
+        "seedPath": "pages/home-9/sec-6-avatar-4.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-avatar-4.webp",
+        "filename": "sec-6-avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-avatar-5.webp",
+        "seedPath": "pages/home-9/sec-6-avatar-5.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-avatar-5.webp",
+        "filename": "sec-6-avatar-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-avatar-6.webp",
+        "seedPath": "pages/home-9/sec-6-avatar-6.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-avatar-6.webp",
+        "filename": "sec-6-avatar-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-fly-1.webp",
+        "seedPath": "pages/home-9/sec-6-fly-1.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-fly-1.webp",
+        "filename": "sec-6-fly-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-fly-2.webp",
+        "seedPath": "pages/home-9/sec-6-fly-2.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-fly-2.webp",
+        "filename": "sec-6-fly-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-fly-3.webp",
+        "seedPath": "pages/home-9/sec-6-fly-3.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-fly-3.webp",
+        "filename": "sec-6-fly-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-fly-4.webp",
+        "seedPath": "pages/home-9/sec-6-fly-4.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-fly-4.webp",
+        "filename": "sec-6-fly-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-fly-5.webp",
+        "seedPath": "pages/home-9/sec-6-fly-5.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-fly-5.webp",
+        "filename": "sec-6-fly-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-fly-6.webp",
+        "seedPath": "pages/home-9/sec-6-fly-6.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-fly-6.webp",
+        "filename": "sec-6-fly-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-shape.webp",
+        "seedPath": "pages/home-9/sec-6-shape.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-shape.webp",
+        "filename": "sec-6-shape.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-6-tag-arrow.webp",
+        "seedPath": "pages/home-9/sec-6-tag-arrow.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-6-tag-arrow.webp",
+        "filename": "sec-6-tag-arrow.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-7-deco.webp",
+        "seedPath": "pages/home-9/sec-7-deco.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-7-deco.webp",
+        "filename": "sec-7-deco.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-7-layer.webp",
+        "seedPath": "pages/home-9/sec-7-layer.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-7-layer.webp",
+        "filename": "sec-7-layer.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/sec-7-tag-arrow.webp",
+        "seedPath": "pages/home-9/sec-7-tag-arrow.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/sec-7-tag-arrow.webp",
+        "filename": "sec-7-tag-arrow.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/star.webp",
+        "seedPath": "pages/home-9/star.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/star.webp",
+        "filename": "star.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/testimonial-1.webp",
+        "seedPath": "pages/home-9/testimonial-1.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/testimonial-1.webp",
+        "filename": "testimonial-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/testimonial-2.webp",
+        "seedPath": "pages/home-9/testimonial-2.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/testimonial-2.webp",
+        "filename": "testimonial-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-9/testimonial-3.webp",
+        "seedPath": "pages/home-9/testimonial-3.webp",
+        "dest": "public/seed/orisa/home-9/pages/home-9/testimonial-3.webp",
+        "filename": "testimonial-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-130.webp",
+        "seedPath": "pages/img-130.webp",
+        "dest": "public/seed/orisa/home-9/pages/img-130.webp",
+        "filename": "img-130.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-131.webp",
+        "seedPath": "pages/img-131.webp",
+        "dest": "public/seed/orisa/home-9/pages/img-131.webp",
+        "filename": "img-131.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-132.webp",
+        "seedPath": "pages/img-132.webp",
+        "dest": "public/seed/orisa/home-9/pages/img-132.webp",
+        "filename": "img-132.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-133.webp",
+        "seedPath": "pages/img-133.webp",
+        "dest": "public/seed/orisa/home-9/pages/img-133.webp",
+        "filename": "img-133.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-134.webp",
+        "seedPath": "pages/img-134.webp",
+        "dest": "public/seed/orisa/home-9/pages/img-134.webp",
+        "filename": "img-134.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-135.webp",
+        "seedPath": "pages/img-135.webp",
+        "dest": "public/seed/orisa/home-9/pages/img-135.webp",
+        "filename": "img-135.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-136.webp",
+        "seedPath": "pages/img-136.webp",
+        "dest": "public/seed/orisa/home-9/pages/img-136.webp",
+        "filename": "img-136.webp"
+      }
+    ],
+    "home-10": [
+      {
+        "relativePath": "assets/imgs/pages/home-10/footer-10-bg-lines.webp",
+        "seedPath": "pages/home-10/footer-10-bg-lines.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/footer-10-bg-lines.webp",
+        "filename": "footer-10-bg-lines.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/footer-10-deco-1.webp",
+        "seedPath": "pages/home-10/footer-10-deco-1.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/footer-10-deco-1.webp",
+        "filename": "footer-10-deco-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/footer-10-deco-2.webp",
+        "seedPath": "pages/home-10/footer-10-deco-2.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/footer-10-deco-2.webp",
+        "filename": "footer-10-deco-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/hero-10-sec1-video-backup.webp",
+        "seedPath": "pages/home-10/hero-10-sec1-video-backup.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/hero-10-sec1-video-backup.webp",
+        "filename": "hero-10-sec1-video-backup.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/hero-10.webm",
+        "seedPath": "pages/home-10/hero-10.webm",
+        "dest": "public/seed/orisa/home-10/pages/home-10/hero-10.webm",
+        "filename": "hero-10.webm"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-1-bg-lines.webp",
+        "seedPath": "pages/home-10/sec-1-bg-lines.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-1-bg-lines.webp",
+        "filename": "sec-1-bg-lines.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-1-shape-25.webp",
+        "seedPath": "pages/home-10/sec-1-shape-25.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-1-shape-25.webp",
+        "filename": "sec-1-shape-25.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-2-scene.webp",
+        "seedPath": "pages/home-10/sec-2-scene.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-2-scene.webp",
+        "filename": "sec-2-scene.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-3-project-1.webp",
+        "seedPath": "pages/home-10/sec-3-project-1.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-3-project-1.webp",
+        "filename": "sec-3-project-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-3-project-2.webp",
+        "seedPath": "pages/home-10/sec-3-project-2.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-3-project-2.webp",
+        "filename": "sec-3-project-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-3-project-3.webp",
+        "seedPath": "pages/home-10/sec-3-project-3.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-3-project-3.webp",
+        "filename": "sec-3-project-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-3-project-4.webp",
+        "seedPath": "pages/home-10/sec-3-project-4.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-3-project-4.webp",
+        "filename": "sec-3-project-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-3-project-5.webp",
+        "seedPath": "pages/home-10/sec-3-project-5.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-3-project-5.webp",
+        "filename": "sec-3-project-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-4-service-1.webp",
+        "seedPath": "pages/home-10/sec-4-service-1.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-4-service-1.webp",
+        "filename": "sec-4-service-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-4-service-2.webp",
+        "seedPath": "pages/home-10/sec-4-service-2.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-4-service-2.webp",
+        "filename": "sec-4-service-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-4-service-3.webp",
+        "seedPath": "pages/home-10/sec-4-service-3.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-4-service-3.webp",
+        "filename": "sec-4-service-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-4-service-4.webp",
+        "seedPath": "pages/home-10/sec-4-service-4.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-4-service-4.webp",
+        "filename": "sec-4-service-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-5-wireframe-head.webp",
+        "seedPath": "pages/home-10/sec-5-wireframe-head.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-5-wireframe-head.webp",
+        "filename": "sec-5-wireframe-head.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-6-member-1.webp",
+        "seedPath": "pages/home-10/sec-6-member-1.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-6-member-1.webp",
+        "filename": "sec-6-member-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-6-member-2.webp",
+        "seedPath": "pages/home-10/sec-6-member-2.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-6-member-2.webp",
+        "filename": "sec-6-member-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-6-member-3.webp",
+        "seedPath": "pages/home-10/sec-6-member-3.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-6-member-3.webp",
+        "filename": "sec-6-member-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-10/sec-6-member-4.webp",
+        "seedPath": "pages/home-10/sec-6-member-4.webp",
+        "dest": "public/seed/orisa/home-10/pages/home-10/sec-6-member-4.webp",
+        "filename": "sec-6-member-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/header-10-mark.webp",
+        "seedPath": "template/logo/header-10-mark.webp",
+        "dest": "public/seed/orisa/home-10/template/logo/header-10-mark.webp",
+        "filename": "header-10-mark.webp"
+      }
+    ],
+    "home-11": [
+      {
+        "relativePath": "assets/imgs/pages/home-11/bg.webp",
+        "seedPath": "pages/home-11/bg.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/bg.webp",
+        "filename": "bg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/hero-11.webm",
+        "seedPath": "pages/home-11/hero-11.webm",
+        "dest": "public/seed/orisa/home-11/pages/home-11/hero-11.webm",
+        "filename": "hero-11.webm"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-1.webp",
+        "seedPath": "pages/home-11/img-1.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-1.webp",
+        "filename": "img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-11.webp",
+        "seedPath": "pages/home-11/img-11.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-11.webp",
+        "filename": "img-11.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-12.webp",
+        "seedPath": "pages/home-11/img-12.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-12.webp",
+        "filename": "img-12.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-13.webp",
+        "seedPath": "pages/home-11/img-13.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-13.webp",
+        "filename": "img-13.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-14.webp",
+        "seedPath": "pages/home-11/img-14.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-14.webp",
+        "filename": "img-14.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-2.webp",
+        "seedPath": "pages/home-11/img-2.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-2.webp",
+        "filename": "img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-3.webp",
+        "seedPath": "pages/home-11/img-3.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-3.webp",
+        "filename": "img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-4.webp",
+        "seedPath": "pages/home-11/img-4.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-4.webp",
+        "filename": "img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-5.webp",
+        "seedPath": "pages/home-11/img-5.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-5.webp",
+        "filename": "img-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-6.webp",
+        "seedPath": "pages/home-11/img-6.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-6.webp",
+        "filename": "img-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-7.webp",
+        "seedPath": "pages/home-11/img-7.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-7.webp",
+        "filename": "img-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-8.webp",
+        "seedPath": "pages/home-11/img-8.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-8.webp",
+        "filename": "img-8.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/img-9.webp",
+        "seedPath": "pages/home-11/img-9.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/img-9.webp",
+        "filename": "img-9.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/member-1.webp",
+        "seedPath": "pages/home-11/member-1.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/member-1.webp",
+        "filename": "member-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/member-2.webp",
+        "seedPath": "pages/home-11/member-2.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/member-2.webp",
+        "filename": "member-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/member-3.webp",
+        "seedPath": "pages/home-11/member-3.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/member-3.webp",
+        "filename": "member-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-11/member-4.webp",
+        "seedPath": "pages/home-11/member-4.webp",
+        "dest": "public/seed/orisa/home-11/pages/home-11/member-4.webp",
+        "filename": "member-4.webp"
+      }
+    ],
+    "home-12": [
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-avatar-1.webp",
+        "seedPath": "pages/home-12/sec-1-avatar-1.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-avatar-1.webp",
+        "filename": "sec-1-avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-avatar-2.webp",
+        "seedPath": "pages/home-12/sec-1-avatar-2.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-avatar-2.webp",
+        "filename": "sec-1-avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-avatar-3.webp",
+        "seedPath": "pages/home-12/sec-1-avatar-3.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-avatar-3.webp",
+        "filename": "sec-1-avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-avatar-4.webp",
+        "seedPath": "pages/home-12/sec-1-avatar-4.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-avatar-4.webp",
+        "filename": "sec-1-avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-tile-1.webp",
+        "seedPath": "pages/home-12/sec-1-tile-1.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-tile-1.webp",
+        "filename": "sec-1-tile-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-tile-2.webp",
+        "seedPath": "pages/home-12/sec-1-tile-2.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-tile-2.webp",
+        "filename": "sec-1-tile-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-tile-3.webp",
+        "seedPath": "pages/home-12/sec-1-tile-3.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-tile-3.webp",
+        "filename": "sec-1-tile-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-tile-4.webp",
+        "seedPath": "pages/home-12/sec-1-tile-4.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-tile-4.webp",
+        "filename": "sec-1-tile-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-tile-5.webp",
+        "seedPath": "pages/home-12/sec-1-tile-5.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-tile-5.webp",
+        "filename": "sec-1-tile-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-1-tile-6.webp",
+        "seedPath": "pages/home-12/sec-1-tile-6.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-1-tile-6.webp",
+        "filename": "sec-1-tile-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-2-project-1.webp",
+        "seedPath": "pages/home-12/sec-2-project-1.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-2-project-1.webp",
+        "filename": "sec-2-project-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-2-project-2.webp",
+        "seedPath": "pages/home-12/sec-2-project-2.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-2-project-2.webp",
+        "filename": "sec-2-project-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-2-project-3.webp",
+        "seedPath": "pages/home-12/sec-2-project-3.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-2-project-3.webp",
+        "filename": "sec-2-project-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-2-project-4.webp",
+        "seedPath": "pages/home-12/sec-2-project-4.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-2-project-4.webp",
+        "filename": "sec-2-project-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-4-process-1.webp",
+        "seedPath": "pages/home-12/sec-4-process-1.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-4-process-1.webp",
+        "filename": "sec-4-process-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-4-process-2.webp",
+        "seedPath": "pages/home-12/sec-4-process-2.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-4-process-2.webp",
+        "filename": "sec-4-process-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-4-process-3.webp",
+        "seedPath": "pages/home-12/sec-4-process-3.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-4-process-3.webp",
+        "filename": "sec-4-process-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-6-brand-1.svg",
+        "seedPath": "pages/home-12/sec-6-brand-1.svg",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-6-brand-1.svg",
+        "filename": "sec-6-brand-1.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-6-brand-2.svg",
+        "seedPath": "pages/home-12/sec-6-brand-2.svg",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-6-brand-2.svg",
+        "filename": "sec-6-brand-2.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-6-brand-3.svg",
+        "seedPath": "pages/home-12/sec-6-brand-3.svg",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-6-brand-3.svg",
+        "filename": "sec-6-brand-3.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-6-brand-4.svg",
+        "seedPath": "pages/home-12/sec-6-brand-4.svg",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-6-brand-4.svg",
+        "filename": "sec-6-brand-4.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-6-brand-5.svg",
+        "seedPath": "pages/home-12/sec-6-brand-5.svg",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-6-brand-5.svg",
+        "filename": "sec-6-brand-5.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-6-brand-6.svg",
+        "seedPath": "pages/home-12/sec-6-brand-6.svg",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-6-brand-6.svg",
+        "filename": "sec-6-brand-6.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-6-brand-7.svg",
+        "seedPath": "pages/home-12/sec-6-brand-7.svg",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-6-brand-7.svg",
+        "filename": "sec-6-brand-7.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-7-avatar-1.webp",
+        "seedPath": "pages/home-12/sec-7-avatar-1.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-7-avatar-1.webp",
+        "filename": "sec-7-avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-7-avatar-2.webp",
+        "seedPath": "pages/home-12/sec-7-avatar-2.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-7-avatar-2.webp",
+        "filename": "sec-7-avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-7-avatar-3.webp",
+        "seedPath": "pages/home-12/sec-7-avatar-3.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-7-avatar-3.webp",
+        "filename": "sec-7-avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-7-avatar-4.webp",
+        "seedPath": "pages/home-12/sec-7-avatar-4.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-7-avatar-4.webp",
+        "filename": "sec-7-avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-7-avatar-5.webp",
+        "seedPath": "pages/home-12/sec-7-avatar-5.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-7-avatar-5.webp",
+        "filename": "sec-7-avatar-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-12/sec-7-avatar-6.webp",
+        "seedPath": "pages/home-12/sec-7-avatar-6.webp",
+        "dest": "public/seed/orisa/home-12/pages/home-12/sec-7-avatar-6.webp",
+        "filename": "sec-7-avatar-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/template/logo/logo-w.svg",
+        "seedPath": "template/logo/logo-w.svg",
+        "dest": "public/seed/orisa/home-12/template/logo/logo-w.svg",
+        "filename": "logo-w.svg"
+      }
+    ],
+    "home-13": [
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_1.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_1.webp",
+        "filename": "home-13_sec_9_1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_2.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_2.webp",
+        "filename": "home-13_sec_9_2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_3.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_3.webp",
+        "filename": "home-13_sec_9_3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_4.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_4.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_4.webp",
+        "filename": "home-13_sec_9_4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_5.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_5.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_5.webp",
+        "filename": "home-13_sec_9_5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_6.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_6.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_6.webp",
+        "filename": "home-13_sec_9_6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_7.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_7.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_7.webp",
+        "filename": "home-13_sec_9_7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_8.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_8.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_8.webp",
+        "filename": "home-13_sec_9_8.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/home-13_sec_9_9.webp",
+        "seedPath": "pages/home-13/home-13_sec_9_9.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/home-13_sec_9_9.webp",
+        "filename": "home-13_sec_9_9.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-hero-1.webp",
+        "seedPath": "pages/home-13/sec-1-hero-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-hero-1.webp",
+        "filename": "sec-1-hero-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-hero-2.webp",
+        "seedPath": "pages/home-13/sec-1-hero-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-hero-2.webp",
+        "filename": "sec-1-hero-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-hero-3.webp",
+        "seedPath": "pages/home-13/sec-1-hero-3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-hero-3.webp",
+        "filename": "sec-1-hero-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-hero-4.webp",
+        "seedPath": "pages/home-13/sec-1-hero-4.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-hero-4.webp",
+        "filename": "sec-1-hero-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-hero-5.webp",
+        "seedPath": "pages/home-13/sec-1-hero-5.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-hero-5.webp",
+        "filename": "sec-1-hero-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-icon-1.webp",
+        "seedPath": "pages/home-13/sec-1-icon-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-icon-1.webp",
+        "filename": "sec-1-icon-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-icon-2.webp",
+        "seedPath": "pages/home-13/sec-1-icon-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-icon-2.webp",
+        "filename": "sec-1-icon-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-icon-3.webp",
+        "seedPath": "pages/home-13/sec-1-icon-3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-icon-3.webp",
+        "filename": "sec-1-icon-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-icon-4.webp",
+        "seedPath": "pages/home-13/sec-1-icon-4.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-icon-4.webp",
+        "filename": "sec-1-icon-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-1-icon-5.webp",
+        "seedPath": "pages/home-13/sec-1-icon-5.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-1-icon-5.webp",
+        "filename": "sec-1-icon-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-avatar-1.webp",
+        "seedPath": "pages/home-13/sec-2-avatar-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-avatar-1.webp",
+        "filename": "sec-2-avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-avatar-2.webp",
+        "seedPath": "pages/home-13/sec-2-avatar-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-avatar-2.webp",
+        "filename": "sec-2-avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-avatar-3.webp",
+        "seedPath": "pages/home-13/sec-2-avatar-3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-avatar-3.webp",
+        "filename": "sec-2-avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-avatar-4.webp",
+        "seedPath": "pages/home-13/sec-2-avatar-4.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-avatar-4.webp",
+        "filename": "sec-2-avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-avatar-5.webp",
+        "seedPath": "pages/home-13/sec-2-avatar-5.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-avatar-5.webp",
+        "filename": "sec-2-avatar-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-img-1.webp",
+        "seedPath": "pages/home-13/sec-2-img-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-img-1.webp",
+        "filename": "sec-2-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-img-2.webp",
+        "seedPath": "pages/home-13/sec-2-img-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-img-2.webp",
+        "filename": "sec-2-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-shape-1.webp",
+        "seedPath": "pages/home-13/sec-2-shape-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-shape-1.webp",
+        "filename": "sec-2-shape-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-shape-2.webp",
+        "seedPath": "pages/home-13/sec-2-shape-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-shape-2.webp",
+        "filename": "sec-2-shape-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-shape-3.webp",
+        "seedPath": "pages/home-13/sec-2-shape-3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-shape-3.webp",
+        "filename": "sec-2-shape-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-2-shape-4.webp",
+        "seedPath": "pages/home-13/sec-2-shape-4.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-2-shape-4.webp",
+        "filename": "sec-2-shape-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-3-img-1.webp",
+        "seedPath": "pages/home-13/sec-3-img-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-3-img-1.webp",
+        "filename": "sec-3-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-3-img-2.webp",
+        "seedPath": "pages/home-13/sec-3-img-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-3-img-2.webp",
+        "filename": "sec-3-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-3-img-3.webp",
+        "seedPath": "pages/home-13/sec-3-img-3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-3-img-3.webp",
+        "filename": "sec-3-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-3-img-4.webp",
+        "seedPath": "pages/home-13/sec-3-img-4.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-3-img-4.webp",
+        "filename": "sec-3-img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-5-img-1.webp",
+        "seedPath": "pages/home-13/sec-5-img-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-5-img-1.webp",
+        "filename": "sec-5-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-5-img-2.webp",
+        "seedPath": "pages/home-13/sec-5-img-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-5-img-2.webp",
+        "filename": "sec-5-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-5-img-3.webp",
+        "seedPath": "pages/home-13/sec-5-img-3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-5-img-3.webp",
+        "filename": "sec-5-img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-5-img-4.webp",
+        "seedPath": "pages/home-13/sec-5-img-4.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-5-img-4.webp",
+        "filename": "sec-5-img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-5-img-5.webp",
+        "seedPath": "pages/home-13/sec-5-img-5.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-5-img-5.webp",
+        "filename": "sec-5-img-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-7-client-1.webp",
+        "seedPath": "pages/home-13/sec-7-client-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-7-client-1.webp",
+        "filename": "sec-7-client-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-7-client-2.webp",
+        "seedPath": "pages/home-13/sec-7-client-2.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-7-client-2.webp",
+        "filename": "sec-7-client-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-7-client-3.webp",
+        "seedPath": "pages/home-13/sec-7-client-3.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-7-client-3.webp",
+        "filename": "sec-7-client-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-13/sec-8-building-1.webp",
+        "seedPath": "pages/home-13/sec-8-building-1.webp",
+        "dest": "public/seed/orisa/home-13/pages/home-13/sec-8-building-1.webp",
+        "filename": "sec-8-building-1.webp"
+      }
+    ],
+    "home-14": [
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-1-hero.webp",
+        "seedPath": "pages/home-14/sec-1-hero.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-1-hero.webp",
+        "filename": "sec-1-hero.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-2-portrait.webp",
+        "seedPath": "pages/home-14/sec-2-portrait.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-2-portrait.webp",
+        "filename": "sec-2-portrait.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-3-card-1.webp",
+        "seedPath": "pages/home-14/sec-3-card-1.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-3-card-1.webp",
+        "filename": "sec-3-card-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-3-card-2.webp",
+        "seedPath": "pages/home-14/sec-3-card-2.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-3-card-2.webp",
+        "filename": "sec-3-card-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-3-card-3.webp",
+        "seedPath": "pages/home-14/sec-3-card-3.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-3-card-3.webp",
+        "filename": "sec-3-card-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-3-card-4.webp",
+        "seedPath": "pages/home-14/sec-3-card-4.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-3-card-4.webp",
+        "filename": "sec-3-card-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-3-featured.webp",
+        "seedPath": "pages/home-14/sec-3-featured.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-3-featured.webp",
+        "filename": "sec-3-featured.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-01.webp",
+        "seedPath": "pages/home-14/sec-4-tile-01.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-01.webp",
+        "filename": "sec-4-tile-01.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-02.webp",
+        "seedPath": "pages/home-14/sec-4-tile-02.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-02.webp",
+        "filename": "sec-4-tile-02.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-03.webp",
+        "seedPath": "pages/home-14/sec-4-tile-03.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-03.webp",
+        "filename": "sec-4-tile-03.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-04.webp",
+        "seedPath": "pages/home-14/sec-4-tile-04.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-04.webp",
+        "filename": "sec-4-tile-04.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-05.webp",
+        "seedPath": "pages/home-14/sec-4-tile-05.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-05.webp",
+        "filename": "sec-4-tile-05.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-06.webp",
+        "seedPath": "pages/home-14/sec-4-tile-06.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-06.webp",
+        "filename": "sec-4-tile-06.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-07.webp",
+        "seedPath": "pages/home-14/sec-4-tile-07.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-07.webp",
+        "filename": "sec-4-tile-07.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-08.webp",
+        "seedPath": "pages/home-14/sec-4-tile-08.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-08.webp",
+        "filename": "sec-4-tile-08.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-09.webp",
+        "seedPath": "pages/home-14/sec-4-tile-09.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-09.webp",
+        "filename": "sec-4-tile-09.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-10.webp",
+        "seedPath": "pages/home-14/sec-4-tile-10.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-10.webp",
+        "filename": "sec-4-tile-10.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-11.webp",
+        "seedPath": "pages/home-14/sec-4-tile-11.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-11.webp",
+        "filename": "sec-4-tile-11.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-4-tile-12.webp",
+        "seedPath": "pages/home-14/sec-4-tile-12.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-4-tile-12.webp",
+        "filename": "sec-4-tile-12.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-5-icon-1.webp",
+        "seedPath": "pages/home-14/sec-5-icon-1.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-5-icon-1.webp",
+        "filename": "sec-5-icon-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-5-icon-2.webp",
+        "seedPath": "pages/home-14/sec-5-icon-2.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-5-icon-2.webp",
+        "filename": "sec-5-icon-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-5-icon-3.webp",
+        "seedPath": "pages/home-14/sec-5-icon-3.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-5-icon-3.webp",
+        "filename": "sec-5-icon-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-5-icon-4.webp",
+        "seedPath": "pages/home-14/sec-5-icon-4.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-5-icon-4.webp",
+        "filename": "sec-5-icon-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-5-icon-5.webp",
+        "seedPath": "pages/home-14/sec-5-icon-5.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-5-icon-5.webp",
+        "filename": "sec-5-icon-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-7-portrait-1.webp",
+        "seedPath": "pages/home-14/sec-7-portrait-1.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-7-portrait-1.webp",
+        "filename": "sec-7-portrait-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-7-portrait-2.webp",
+        "seedPath": "pages/home-14/sec-7-portrait-2.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-7-portrait-2.webp",
+        "filename": "sec-7-portrait-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-7-portrait-3.webp",
+        "seedPath": "pages/home-14/sec-7-portrait-3.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-7-portrait-3.webp",
+        "filename": "sec-7-portrait-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-1.webp",
+        "seedPath": "pages/home-14/sec-9-feed-1.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-1.webp",
+        "filename": "sec-9-feed-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-2.webp",
+        "seedPath": "pages/home-14/sec-9-feed-2.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-2.webp",
+        "filename": "sec-9-feed-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-3.webp",
+        "seedPath": "pages/home-14/sec-9-feed-3.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-3.webp",
+        "filename": "sec-9-feed-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-4.webp",
+        "seedPath": "pages/home-14/sec-9-feed-4.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-4.webp",
+        "filename": "sec-9-feed-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-5.webp",
+        "seedPath": "pages/home-14/sec-9-feed-5.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-5.webp",
+        "filename": "sec-9-feed-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-6.webp",
+        "seedPath": "pages/home-14/sec-9-feed-6.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-6.webp",
+        "filename": "sec-9-feed-6.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-7.webp",
+        "seedPath": "pages/home-14/sec-9-feed-7.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-7.webp",
+        "filename": "sec-9-feed-7.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-8.webp",
+        "seedPath": "pages/home-14/sec-9-feed-8.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-8.webp",
+        "filename": "sec-9-feed-8.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-14/sec-9-feed-9.webp",
+        "seedPath": "pages/home-14/sec-9-feed-9.webp",
+        "dest": "public/seed/orisa/home-14/pages/home-14/sec-9-feed-9.webp",
+        "filename": "sec-9-feed-9.webp"
+      }
+    ],
+    "home-15": [
+      {
+        "relativePath": "assets/imgs/pages/home-15/footer-bg.webp",
+        "seedPath": "pages/home-15/footer-bg.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/footer-bg.webp",
+        "filename": "footer-bg.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-1-avatar-1.webp",
+        "seedPath": "pages/home-15/sec-1-avatar-1.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-1-avatar-1.webp",
+        "filename": "sec-1-avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-1-avatar-2.webp",
+        "seedPath": "pages/home-15/sec-1-avatar-2.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-1-avatar-2.webp",
+        "filename": "sec-1-avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-1-avatar-3.webp",
+        "seedPath": "pages/home-15/sec-1-avatar-3.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-1-avatar-3.webp",
+        "filename": "sec-1-avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-1-avatar-4.webp",
+        "seedPath": "pages/home-15/sec-1-avatar-4.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-1-avatar-4.webp",
+        "filename": "sec-1-avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-1-avatar-5.webp",
+        "seedPath": "pages/home-15/sec-1-avatar-5.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-1-avatar-5.webp",
+        "filename": "sec-1-avatar-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-1-hero.webp",
+        "seedPath": "pages/home-15/sec-1-hero.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-1-hero.webp",
+        "filename": "sec-1-hero.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-1-lines.svg",
+        "seedPath": "pages/home-15/sec-1-lines.svg",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-1-lines.svg",
+        "filename": "sec-1-lines.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-2-img-1.webp",
+        "seedPath": "pages/home-15/sec-2-img-1.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-2-img-1.webp",
+        "filename": "sec-2-img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-2-img-2.webp",
+        "seedPath": "pages/home-15/sec-2-img-2.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-2-img-2.webp",
+        "filename": "sec-2-img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-2-shape-25.svg",
+        "seedPath": "pages/home-15/sec-2-shape-25.svg",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-2-shape-25.svg",
+        "filename": "sec-2-shape-25.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-4-project-1.webp",
+        "seedPath": "pages/home-15/sec-4-project-1.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-4-project-1.webp",
+        "filename": "sec-4-project-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-4-project-2.webp",
+        "seedPath": "pages/home-15/sec-4-project-2.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-4-project-2.webp",
+        "filename": "sec-4-project-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-4-project-3.webp",
+        "seedPath": "pages/home-15/sec-4-project-3.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-4-project-3.webp",
+        "filename": "sec-4-project-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-4-project-4.webp",
+        "seedPath": "pages/home-15/sec-4-project-4.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-4-project-4.webp",
+        "filename": "sec-4-project-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-5-phase-1.webp",
+        "seedPath": "pages/home-15/sec-5-phase-1.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-5-phase-1.webp",
+        "filename": "sec-5-phase-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-5-phase-2.webp",
+        "seedPath": "pages/home-15/sec-5-phase-2.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-5-phase-2.webp",
+        "filename": "sec-5-phase-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-5-phase-3.webp",
+        "seedPath": "pages/home-15/sec-5-phase-3.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-5-phase-3.webp",
+        "filename": "sec-5-phase-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-5-phase-4.webp",
+        "seedPath": "pages/home-15/sec-5-phase-4.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-5-phase-4.webp",
+        "filename": "sec-5-phase-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-5-phase-5.webp",
+        "seedPath": "pages/home-15/sec-5-phase-5.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-5-phase-5.webp",
+        "filename": "sec-5-phase-5.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-6-member-1.png",
+        "seedPath": "pages/home-15/sec-6-member-1.png",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-6-member-1.png",
+        "filename": "sec-6-member-1.png"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-6-member-2.png",
+        "seedPath": "pages/home-15/sec-6-member-2.png",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-6-member-2.png",
+        "filename": "sec-6-member-2.png"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-6-member-3.png",
+        "seedPath": "pages/home-15/sec-6-member-3.png",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-6-member-3.png",
+        "filename": "sec-6-member-3.png"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-6-member-4.png",
+        "seedPath": "pages/home-15/sec-6-member-4.png",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-6-member-4.png",
+        "filename": "sec-6-member-4.png"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-7-img.webp",
+        "seedPath": "pages/home-15/sec-7-img.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-7-img.webp",
+        "filename": "sec-7-img.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-8-avatar-1.webp",
+        "seedPath": "pages/home-15/sec-8-avatar-1.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-8-avatar-1.webp",
+        "filename": "sec-8-avatar-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-8-avatar-2.webp",
+        "seedPath": "pages/home-15/sec-8-avatar-2.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-8-avatar-2.webp",
+        "filename": "sec-8-avatar-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-8-avatar-3.webp",
+        "seedPath": "pages/home-15/sec-8-avatar-3.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-8-avatar-3.webp",
+        "filename": "sec-8-avatar-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-8-avatar-4.webp",
+        "seedPath": "pages/home-15/sec-8-avatar-4.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-8-avatar-4.webp",
+        "filename": "sec-8-avatar-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/home-15/sec-8-avatar-5.webp",
+        "seedPath": "pages/home-15/sec-8-avatar-5.webp",
+        "dest": "public/seed/orisa/home-15/pages/home-15/sec-8-avatar-5.webp",
+        "filename": "sec-8-avatar-5.webp"
+      }
+    ],
+    "about-2": [
+      {
+        "relativePath": "assets/imgs/pages/img-122.webp",
+        "seedPath": "pages/img-122.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-122.webp",
+        "filename": "img-122.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-123.webp",
+        "seedPath": "pages/img-123.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-123.webp",
+        "filename": "img-123.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-124.webp",
+        "seedPath": "pages/img-124.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-124.webp",
+        "filename": "img-124.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-125.webp",
+        "seedPath": "pages/img-125.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-125.webp",
+        "filename": "img-125.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-126.webp",
+        "seedPath": "pages/img-126.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-126.webp",
+        "filename": "img-126.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-127.webp",
+        "seedPath": "pages/img-127.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-127.webp",
+        "filename": "img-127.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-128.webp",
+        "seedPath": "pages/img-128.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-128.webp",
+        "filename": "img-128.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-129.webp",
+        "seedPath": "pages/img-129.webp",
+        "dest": "public/seed/orisa/about-2/pages/img-129.webp",
+        "filename": "img-129.webp"
+      }
+    ],
+    "about-3": [
+      {
+        "relativePath": "assets/imgs/icons/logo-1.svg",
+        "seedPath": "icons/logo-1.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-1.svg",
+        "filename": "logo-1.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-10.svg",
+        "seedPath": "icons/logo-10.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-10.svg",
+        "filename": "logo-10.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-11.svg",
+        "seedPath": "icons/logo-11.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-11.svg",
+        "filename": "logo-11.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-12.svg",
+        "seedPath": "icons/logo-12.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-12.svg",
+        "filename": "logo-12.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-13.svg",
+        "seedPath": "icons/logo-13.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-13.svg",
+        "filename": "logo-13.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-14.svg",
+        "seedPath": "icons/logo-14.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-14.svg",
+        "filename": "logo-14.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-15.svg",
+        "seedPath": "icons/logo-15.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-15.svg",
+        "filename": "logo-15.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-2.svg",
+        "seedPath": "icons/logo-2.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-2.svg",
+        "filename": "logo-2.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-3.svg",
+        "seedPath": "icons/logo-3.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-3.svg",
+        "filename": "logo-3.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-4.svg",
+        "seedPath": "icons/logo-4.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-4.svg",
+        "filename": "logo-4.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-5.svg",
+        "seedPath": "icons/logo-5.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-5.svg",
+        "filename": "logo-5.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-6.svg",
+        "seedPath": "icons/logo-6.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-6.svg",
+        "filename": "logo-6.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-7.svg",
+        "seedPath": "icons/logo-7.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-7.svg",
+        "filename": "logo-7.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-8.svg",
+        "seedPath": "icons/logo-8.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-8.svg",
+        "filename": "logo-8.svg"
+      },
+      {
+        "relativePath": "assets/imgs/icons/logo-9.svg",
+        "seedPath": "icons/logo-9.svg",
+        "dest": "public/seed/orisa/about-3/icons/logo-9.svg",
+        "filename": "logo-9.svg"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-137.webp",
+        "seedPath": "pages/img-137.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-137.webp",
+        "filename": "img-137.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-138.webp",
+        "seedPath": "pages/img-138.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-138.webp",
+        "filename": "img-138.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-139.webp",
+        "seedPath": "pages/img-139.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-139.webp",
+        "filename": "img-139.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-140.webp",
+        "seedPath": "pages/img-140.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-140.webp",
+        "filename": "img-140.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-141.webp",
+        "seedPath": "pages/img-141.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-141.webp",
+        "filename": "img-141.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-142.webp",
+        "seedPath": "pages/img-142.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-142.webp",
+        "filename": "img-142.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-143.webp",
+        "seedPath": "pages/img-143.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-143.webp",
+        "filename": "img-143.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-144.webp",
+        "seedPath": "pages/img-144.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-144.webp",
+        "filename": "img-144.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-145.webp",
+        "seedPath": "pages/img-145.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-145.webp",
+        "filename": "img-145.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-146.webp",
+        "seedPath": "pages/img-146.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-146.webp",
+        "filename": "img-146.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-147.webp",
+        "seedPath": "pages/img-147.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-147.webp",
+        "filename": "img-147.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-148.webp",
+        "seedPath": "pages/img-148.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-148.webp",
+        "filename": "img-148.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-149.webp",
+        "seedPath": "pages/img-149.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-149.webp",
+        "filename": "img-149.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-150.webp",
+        "seedPath": "pages/img-150.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-150.webp",
+        "filename": "img-150.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-151.webp",
+        "seedPath": "pages/img-151.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-151.webp",
+        "filename": "img-151.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/img-152.webp",
+        "seedPath": "pages/img-152.webp",
+        "dest": "public/seed/orisa/about-3/pages/img-152.webp",
+        "filename": "img-152.webp"
+      }
+    ],
+    "contact-2": [],
+    "portfolio-cinema": [
+      {
+        "relativePath": "assets/imgs/pages/slideshow/img-1.webp",
+        "seedPath": "pages/slideshow/img-1.webp",
+        "dest": "public/seed/orisa/portfolio-cinema/pages/slideshow/img-1.webp",
+        "filename": "img-1.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/slideshow/img-2.webp",
+        "seedPath": "pages/slideshow/img-2.webp",
+        "dest": "public/seed/orisa/portfolio-cinema/pages/slideshow/img-2.webp",
+        "filename": "img-2.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/slideshow/img-3.webp",
+        "seedPath": "pages/slideshow/img-3.webp",
+        "dest": "public/seed/orisa/portfolio-cinema/pages/slideshow/img-3.webp",
+        "filename": "img-3.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/slideshow/img-4.webp",
+        "seedPath": "pages/slideshow/img-4.webp",
+        "dest": "public/seed/orisa/portfolio-cinema/pages/slideshow/img-4.webp",
+        "filename": "img-4.webp"
+      },
+      {
+        "relativePath": "assets/imgs/pages/slideshow/img-5.webp",
+        "seedPath": "pages/slideshow/img-5.webp",
+        "dest": "public/seed/orisa/portfolio-cinema/pages/slideshow/img-5.webp",
+        "filename": "img-5.webp"
+      }
+    ]
+  },
+  "stats": {
+    "totalUnique": 574,
+    "copied": 574,
+    "missing": 0,
+    "shared": 12,
+    "creative": 49,
+    "marketing": 40,
+    "about": 15,
+    "contact": 1,
+    "digital": 23,
+    "home-4": 33,
+    "home-5": 16,
+    "home-6": 26,
+    "home-7": 31,
+    "home-8": 48,
+    "home-9": 54,
+    "home-10": 23,
+    "home-11": 19,
+    "home-12": 31,
+    "home-13": 43,
+    "home-14": 36,
+    "home-15": 30,
+    "about-2": 8,
+    "about-3": 31,
+    "contact-2": 0,
+    "portfolio-cinema": 5
+  },
+  "missing": []
+}

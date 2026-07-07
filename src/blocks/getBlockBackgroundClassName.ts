@@ -1,0 +1,65 @@
+export function getBlockBackgroundClassName(backgroundColor: unknown): string {
+  switch (backgroundColor) {
+    case 'primary':
+      return 'bg-primary'
+    case 'primary-foreground':
+      return 'bg-primary-foreground'
+    case 'secondary':
+      return 'bg-secondary'
+    case 'secondary-foreground':
+      return 'bg-secondary-foreground'
+    case 'accent':
+      return 'bg-accent'
+    case 'accent-foreground':
+      return 'bg-accent-foreground'
+    case 'background':
+      return 'bg-background'
+    case 'foreground':
+      return 'bg-foreground'
+    case 'muted':
+      return 'bg-muted'
+    case 'muted-foreground':
+      return 'bg-muted-foreground'
+    case 'muted2':
+      return 'bg-muted2'
+    case 'muted2-foreground':
+      return 'bg-muted2-foreground'
+    case 'card':
+      return 'bg-card'
+    case 'card-foreground':
+      return 'bg-card-foreground'
+    case 'popover':
+      return 'bg-popover'
+    case 'popover-foreground':
+      return 'bg-popover-foreground'
+    case 'destructive':
+      return 'bg-destructive'
+    case 'destructive-foreground':
+      return 'bg-destructive-foreground'
+    case 'border':
+      return 'bg-border'
+    case 'input':
+      return 'bg-input'
+    case 'ring-3':
+      return 'bg-ring'
+    case 'success':
+      return 'bg-success'
+    case 'warning':
+      return 'bg-warning'
+    case 'error':
+      return 'bg-error'
+    case 'chart-1':
+      return 'bg-chart-1'
+    case 'chart-2':
+      return 'bg-chart-2'
+    case 'chart-3':
+      return 'bg-chart-3'
+    case 'chart-4':
+      return 'bg-chart-4'
+    case 'chart-5':
+      return 'bg-chart-5'
+    case 'transparent':
+    default:
+      return ''
+  }
+}

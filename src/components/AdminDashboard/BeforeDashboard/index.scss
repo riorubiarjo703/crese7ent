@@ -1,0 +1,24 @@
+@import '~@payloadcms/ui/scss';
+
+.backup-dashboard-2 {
+  h2 {
+    margin-bottom: 20px;
+  }
+}
+
+.red-text {
+  color: red;
+}
+
+.seed-action {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: base(0.5);
+  margin-top: base(0.5);
+
+  span {
+    font-size: 13px;
+    color: var(--theme-elevation-600);
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "source": "Orisa main.css (:root) — extracted Phase 0",
+  "fontFamily": {
+    "sans": "DM Sans",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100..1000&display=swap"
+  },
+  "colors": {
+    "primary": "#F0460E",
+    "primaryRgb": "240, 70, 14",
+    "background": "#FEFEFE",
+    "foreground": "#1D1D1D",
+    "card": "#F2F2F2",
+    "muted": "#DFDFDF",
+    "border": "#DFDFDF",
+    "neutral950": "#0F0F0F",
+    "neutral900": "#1D1D1D",
+    "neutral50": "#F2F2F2",
+    "white": "#FFFFFF",
+    "black": "#1E1E1E"
+  },
+  "radius": {
+    "orisaRounded5": "1.25rem",
+    "payblocksDefault": "0.6rem"
+  },
+  "themeConfigSeed": {
+    "regularColors": {
+      "primary": "#F0460E",
+      "primary-foreground": "#FFFFFF",
+      "background": "#FEFEFE",
+      "foreground": "#1D1D1D",
+      "card": "#F2F2F2",
+      "card-foreground": "#1D1D1D",
+      "muted": "#F2F2F2",
+      "muted-foreground": "#585959",
+      "border": "#DFDFDF"
+    },
+    "darkmodeColors": {
+      "enableDarkMode": true,
+      "primary": "#F0460E",
+      "primary-foreground": "#FFFFFF",
+      "background": "#0F0F0F",
+      "foreground": "#FEFEFE",
+      "card": "#1D1D1D",
+      "card-foreground": "#FEFEFE",
+      "popover": "#1D1D1D",
+      "popover-foreground": "#FEFEFE",
+      "secondary": "#262626",
+      "secondary-foreground": "#FEFEFE",
+      "muted": "#262626",
+      "muted-foreground": "#A3A3A3",
+      "accent": "#262626",
+      "accent-foreground": "#FEFEFE",
+      "destructive": "#DC2626",
+      "destructive-foreground": "#FFFFFF",
+      "border": "#333333",
+      "input": "#333333",
+      "ring-3": "#F0460E",
+      "success": "#16A34A",
+      "warning": "#CA8A04",
+      "error": "#DC2626"
+    },
+    "radius": "0.6rem"
+  }
+}

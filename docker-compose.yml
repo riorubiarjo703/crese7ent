@@ -1,0 +1,21 @@
+# Local development — MongoDB only.
+# Run the Next.js app on your host (recommended): pnpm install && pnpm dev
+# Start database: docker compose up -d mongo
+
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ['CMD', 'mongosh', '--eval', "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
+
+volumes:
+  mongo_data:
