@@ -128,7 +128,7 @@ export function OrisaFaqClient({
       className="alt-faq-area bg-white pt-[145px] pb-20"
     >
       <FaqStructuredData faqs={faqs} />
-      <div className="w-full px-4">
+      <div className="mx-auto w-full max-w-[1750px] px-4">
         <div className="grid gap-10 lg:grid-cols-12 lg:gap-8">
           <div className="lg:col-span-5">
             <div className="mb-10">

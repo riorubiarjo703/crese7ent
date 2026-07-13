@@ -8,6 +8,15 @@ type BlogMetadataItem = {
 
 export const allBlogDesignVersions = [
   {
+    label: 'BLOG_ORISA_01',
+    value: 'BLOG_ORISA_01',
+    image: '/seed/orisa/creative/pages/img-23.webp',
+    description:
+      'Orisa blog grid with eyebrow link, split headline, ALL ARTICLES CTA, and four image cards with author meta.',
+    longDescription:
+      'Blog Orisa 01 recreates the at-sec13-area from the Orisa Creative homepage. A top row pairs an INSIDE COMPANY eyebrow and split reveal headline with a pill ALL ARTICLES button. Below, a responsive four-column grid shows blog cards with hover zoom thumbnails, title links, and By Author – Date meta lines.',
+  },
+  {
     label: 'BLOG29',
     value: 'BLOG29',
     image: '/admin/previews/blog/blog29.jpeg',

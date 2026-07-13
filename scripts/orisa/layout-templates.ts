@@ -458,6 +458,46 @@ function buildOrisaFaqBlock(media: OrisaBucketMedia) {
   }
 }
 
+function buildOrisaClosingCtaBlock(media: OrisaBucketMedia) {
+  const backgroundImage = mediaIdByFilename(media, 'img-22.webp')
+
+  return {
+    blockType: 'closingCta' as const,
+    designVersion: 'ORISA_CLOSING_01' as const,
+    headlineLines: [{ line: "Let's Create" }, { line: 'Meaning Together' }],
+    hoursCaption: '[ From 8:00 To 16:30 ]',
+    descriptionLine:
+      '[ A creative studio crafting bold, user-focused digital experiences. At Orisa, we blend strategy, design, and innovation to help brands stand out and grow. ]',
+    brandName: 'Orisa',
+    showLocalTime: true,
+    backgroundImage,
+    primaryCta: {
+      type: 'custom' as const,
+      url: '/contact',
+      label: 'Book A Call Now',
+    },
+  }
+}
+
+function buildOrisaBlogBlock() {
+  return {
+    blockType: 'blog' as const,
+    designVersion: 'BLOG_ORISA_01' as const,
+    eyebrow: 'INSIDE COMPANY',
+    eyebrowLink: { type: 'custom' as const, url: '/posts', label: 'INSIDE COMPANY' },
+    headlineLines: [
+      { line: 'Latest Posts From Our' },
+      { line: 'blog and Event Fan page' },
+    ],
+    links: [{ link: { type: 'custom' as const, url: '/posts', label: 'ALL ARTICLES' } }],
+    populateBy: 'collection' as const,
+    postCollection: 'posts' as const,
+    limit: 4,
+    sortField: 'publishedAt' as const,
+    sortOrder: 'desc' as const,
+  }
+}
+
 function portfolioSlides(media: OrisaBucketMedia, orisaCreative = false) {
   const { pages, logos } = media
   const portfolioIds = mediaIdsByFilenames(media, [...CREATIVE_PORTFOLIO_IMAGES])
@@ -732,16 +772,7 @@ export function buildLayout(
     buildOrisaStatsBarBlock(),
     buildOrisaMeetTeamBlock(media),
     buildOrisaFaqBlock(media),
-    closingCta("Let's Create Meaning Together"),
-    {
-      blockType: 'blog' as const,
-      designVersion: 'BLOG29',
-      richText: lexicalHeading('Latest from the blog'),
-      populateBy: 'collection' as const,
-      postCollection: 'posts' as const,
-      limit: 3,
-      sortField: 'publishedAt' as const,
-      sortOrder: 'desc' as const,
-    },
+    buildOrisaClosingCtaBlock(media),
+    buildOrisaBlogBlock(),
   ].filter(Boolean)
 }

@@ -245,7 +245,7 @@ export function OrisaMeetTeamClient({
       className="at-sec9-area-wrapper mx-auto max-w-[2200px]"
     >
       <div className="at-sec9-area mx-2 mt-10 rounded-[20px] border border-neutral-100 bg-white py-[130px] lg:mx-3">
-        <div className="w-full px-4">
+        <div className="mx-auto w-full max-w-[1750px] px-4">
           <div className="grid gap-10 xl:grid-cols-12 xl:items-start">
             <div className="xl:col-span-7">
               <OrisaRotatingLink

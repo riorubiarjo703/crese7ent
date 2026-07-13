@@ -1,11 +1,16 @@
 import { Block } from 'payload'
 import { HeadingFeature, ParagraphFeature, lexicalEditor } from '@payloadcms/richtext-lexical'
 import { designVersionPreview } from '@/components/AdminDashboard/DesignVersionPreview/config'
+import { link } from '@/fields/link'
 import { linkGroup } from '@/fields/linkGroup'
 import { allBlogDesignVersions } from './metadata'
 
 export type { BlogDesignVersion } from './metadata'
 export { allBlogDesignVersions }
+
+const orisaDesign = (designVersion?: string) => designVersion === 'BLOG_ORISA_01'
+const defaultDesign = (designVersion?: string) =>
+  !designVersion || designVersion === 'BLOG29' || designVersion === 'BLOG27'
 
 // Available collections that can be used as blog post sources
 const availableCollections = [
@@ -37,11 +42,47 @@ export const Blog: Block = {
   fields: [
     designVersionPreview(allBlogDesignVersions),
     {
+      name: 'eyebrow',
+      type: 'text',
+      localized: true,
+      defaultValue: 'INSIDE COMPANY',
+      admin: {
+        condition: (_, { designVersion } = { designVersion: '' }) => orisaDesign(designVersion),
+      },
+    },
+    link({
+      overrides: {
+        name: 'eyebrowLink',
+        label: 'Eyebrow link',
+        admin: {
+          condition: (_, { designVersion } = { designVersion: '' }) => orisaDesign(designVersion),
+        },
+      },
+    }),
+    {
+      name: 'headlineLines',
+      type: 'array',
+      maxRows: 3,
+      labels: { singular: 'Headline line', plural: 'Headline lines' },
+      admin: {
+        condition: (_, { designVersion } = { designVersion: '' }) => orisaDesign(designVersion),
+      },
+      fields: [
+        {
+          name: 'line',
+          type: 'text',
+          localized: true,
+          required: true,
+        },
+      ],
+    },
+    {
       name: 'richText',
       type: 'richText',
       localized: true,
       admin: {
         description: 'Optional heading and description for the blog section',
+        condition: (_, { designVersion } = { designVersion: '' }) => defaultDesign(designVersion),
       },
       editor: lexicalEditor({
         features: ({ defaultFeatures }) => [

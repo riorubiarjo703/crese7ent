@@ -18,6 +18,38 @@ function loadDesignTokens() {
   }
 }
 
+async function ensureOrisaLogoMedia(payload: Awaited<ReturnType<typeof getPayload>>) {
+  const filename = 'favicon-dark.svg'
+  const existing = await payload.find({
+    collection: 'media',
+    where: { filename: { equals: filename } },
+    limit: 1,
+    overrideAccess: true,
+  })
+
+  if (existing.docs[0]?.id) return existing.docs[0].id
+
+  const filePath = path.join(repoRoot, 'public/seed/orisa/creative/template/logo/favicon-dark.svg')
+  if (!fs.existsSync(filePath)) {
+    console.warn(`Orisa logo not found at ${filePath}.`)
+    return undefined
+  }
+
+  const created = await payload.create({
+    collection: 'media',
+    data: { alt: 'Orisa' },
+    file: {
+      data: Buffer.from(fs.readFileSync(filePath)),
+      mimetype: 'image/svg+xml',
+      name: filename,
+      size: fs.statSync(filePath).size,
+    },
+    overrideAccess: true,
+  })
+
+  return created.id
+}
+
 async function ensureStoreframeLogoMedia(payload: Awaited<ReturnType<typeof getPayload>>) {
   const filename = 'logo-storeframe.svg'
   const existing = await payload.find({
@@ -53,7 +85,7 @@ async function ensureStoreframeLogoMedia(payload: Awaited<ReturnType<typeof getP
 async function seedOrisaGlobals() {
   const payload = await getPayload({ config: configPromise })
   const tokens = loadDesignTokens()
-  const logoId = await ensureStoreframeLogoMedia(payload)
+  const logoId = await ensureOrisaLogoMedia(payload)
 
   await payload.updateGlobal({
     slug: 'themeConfig',
@@ -129,13 +161,15 @@ async function seedOrisaGlobals() {
     data: {
       designVersion: '9',
       ...(logoId ? { logo: logoId } : {}),
-      copyright: 'Storeframe. All rights reserved.',
+      copyright: `Orisa © ${new Date().getFullYear()}`,
       orisaFooter: {
         headline: "Let's Shape Your Next Idea",
+        headlineLines: [{ line: "Let's Shape" }, { line: 'Your Next Idea' }],
         address: '205 North Michigan Avenue, Suite 810\nChicago, 60601, USA',
         phone: '(212) 555-7398',
-        email: 'hello@storeframe.com',
-        brandMark: 'Storeframe®',
+        email: 'hello@orisa.com',
+        brandMark: 'Orisa Studio®',
+        sinceCaption: '[ Since 2012 ]',
         marqueeTags: [
           { label: 'Web Development' },
           { label: 'Motion Graphics' },
@@ -148,6 +182,8 @@ async function seedOrisaGlobals() {
         { icon: 'facebook', url: 'https://facebook.com' },
         { icon: 'instagram', url: 'https://instagram.com' },
         { icon: 'linkedin', url: 'https://linkedin.com' },
+        { icon: 'behance', url: 'https://behance.net' },
+        { icon: 'dribbble', url: 'https://dribbble.com' },
       ],
       navItems: [
         {
@@ -165,13 +201,12 @@ async function seedOrisaGlobals() {
           subNavItems: [
             { link: { type: 'custom', url: '/shop', label: 'Shop' } },
             { link: { type: 'custom', url: '/pricing', label: 'Pricing' } },
+            { link: { type: 'custom', url: '/cart', label: 'Cart' } },
+            { link: { type: 'custom', url: '/checkout', label: 'Checkout' } },
           ],
         },
       ],
-      legalLinks: [
-        { link: { type: 'custom', url: '/privacy', label: 'Privacy Policy' } },
-        { link: { type: 'custom', url: '/imprint', label: 'Imprint' } },
-      ],
+      legalLinks: [],
     } as any,
     overrideAccess: true,
   })

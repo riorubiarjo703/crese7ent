@@ -156,7 +156,7 @@ export function CasestudiesOrisa01Client({
       ref={sectionRef}
       className="mg-portfolio-area bg-white pt-[145px] pb-[65px] text-neutral-950"
     >
-      <div className="w-full px-4">
+      <div className="mx-auto w-full max-w-[1750px] px-4">
         <div className="grid gap-12 lg:grid-cols-12">
           <div className="lg:col-span-4">
             <div

@@ -53,6 +53,14 @@ export const socialIconOptions = {
     label: 'Google Play',
     value: 'googleplay',
   },
+  behance: {
+    label: 'Behance',
+    value: 'behance',
+  },
+  dribbble: {
+    label: 'Dribbble',
+    value: 'dribbble',
+  },
 } as const
 
 export type SocialIconType = keyof typeof socialIconOptions

@@ -336,7 +336,7 @@ export function TestimonialOrisa01Client({
   return (
     <section className="sec-6-home-1-wrapper mx-auto max-w-[2200px]">
       <div className="sec-6-home-1 mx-2 overflow-hidden rounded-[20px] bg-black pt-[100px] pb-[100px] lg:mx-3">
-        <div className="w-full px-4">
+        <div className="mx-auto w-full max-w-[1750px] px-4">
           <div className="relative z-[2] mb-[50px] grid items-end gap-3 md:grid-cols-12">
             <div className="md:col-span-8">
               <OrisaTestimonialMark />

@@ -355,3 +355,25 @@ a {
   background-color: var(--color-neutral-950, #0a0a0a);
   color: white;
 }
+
+/* Orisa blog-card hover-effect-1 — zoom morph on thumbnail */
+.hover-effect-1 {
+  overflow: hidden;
+}
+
+.hover-effect-1 img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: transform 0.6s ease;
+}
+
+.hover-effect-1:hover img {
+  transform: scale(1.08);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hover-effect-1:hover img {
+    transform: none;
+  }
+}

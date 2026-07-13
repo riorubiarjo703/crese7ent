@@ -210,7 +210,7 @@ export function AboutOrisa01Client({
       ref={sectionRef}
       className="bg-white pt-[100px] pb-20 text-neutral-950 dark:bg-white dark:text-neutral-950"
     >
-      <div className="w-full px-4">
+      <div className="mx-auto w-full max-w-[1750px] px-4">
         <div className="row align-items-end flex flex-wrap">
           <div className="max-w-[66.66666667%]">
             <div className="mb-30">

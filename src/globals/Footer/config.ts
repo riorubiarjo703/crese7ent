@@ -68,6 +68,23 @@ export const Footer: GlobalConfig = {
           localized: true,
         },
         {
+          name: 'headlineLines',
+          type: 'array',
+          maxRows: 3,
+          labels: { singular: 'Headline line', plural: 'Headline lines' },
+          admin: {
+            description: 'Optional line breaks for the footer headline. Falls back to headline text.',
+          },
+          fields: [
+            {
+              name: 'line',
+              type: 'text',
+              localized: true,
+              required: true,
+            },
+          ],
+        },
+        {
           name: 'address',
           type: 'textarea',
           localized: true,
@@ -84,7 +101,13 @@ export const Footer: GlobalConfig = {
           name: 'brandMark',
           type: 'text',
           localized: true,
-          defaultValue: 'Storeframe®',
+          defaultValue: 'Orisa Studio®',
+        },
+        {
+          name: 'sinceCaption',
+          type: 'text',
+          localized: true,
+          defaultValue: '[ Since 2012 ]',
         },
         {
           name: 'marqueeTags',

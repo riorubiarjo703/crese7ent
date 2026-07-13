@@ -78,6 +78,7 @@ async function seedOrisaCreativeAgency() {
     'public/seed/orisa/shared/pages/img-19.webp',
     'public/seed/orisa/shared/pages/img-20.webp',
     'public/seed/orisa/creative/pages/img-21.webp',
+    'public/seed/orisa/creative/pages/img-22.webp',
     'public/seed/orisa/shared/template/avatar/avatar-1.webp',
     'public/seed/orisa/shared/template/avatar/avatar-2.webp',
     'public/seed/orisa/shared/template/avatar/avatar-3.webp',
@@ -99,8 +100,9 @@ async function seedOrisaCreativeAgency() {
   const whyChooseLogo = brandAndPortfolio[15]
   const teamPhotoIds = brandAndPortfolio.slice(16, 20)
   const faqSupportImageId = brandAndPortfolio[20]
-  const aboutAvatarIds = brandAndPortfolio.slice(21, 26)
-  const avatarIds = brandAndPortfolio.slice(26)
+  const closingBannerImageId = brandAndPortfolio[21]
+  const aboutAvatarIds = brandAndPortfolio.slice(22, 27)
+  const avatarIds = brandAndPortfolio.slice(27)
 
   const hero = {
     designVersion: 'ORISA_CREATIVE_01' as const,
@@ -464,28 +466,33 @@ async function seedOrisaCreativeAgency() {
     },
     {
       blockType: 'closingCta' as const,
-      headline: lexicalHeading("Let's Create Meaning Together"),
-      supportingText: 'Ready to start your next project? Get in touch today.',
+      designVersion: 'ORISA_CLOSING_01' as const,
+      headlineLines: [{ line: "Let's Create" }, { line: 'Meaning Together' }],
+      hoursCaption: '[ From 8:00 To 16:30 ]',
+      descriptionLine:
+        '[ A creative studio crafting bold, user-focused digital experiences. At Orisa, we blend strategy, design, and innovation to help brands stand out and grow. ]',
+      brandName: 'Orisa',
+      showLocalTime: true,
+      backgroundImage: closingBannerImageId,
       primaryCta: {
         type: 'custom' as const,
         url: '/contact',
-        label: 'Get in touch',
-        appearance: 'default' as const,
-      },
-      secondaryCta: {
-        type: 'custom' as const,
-        url: '/portfolio',
-        label: 'View our work',
-        appearance: 'outline' as const,
+        label: 'Book A Call Now',
       },
     },
     {
       blockType: 'blog' as const,
-      designVersion: 'BLOG29',
-      richText: lexicalHeading('Latest from the blog'),
+      designVersion: 'BLOG_ORISA_01' as const,
+      eyebrow: 'INSIDE COMPANY',
+      eyebrowLink: { type: 'custom' as const, url: '/posts', label: 'INSIDE COMPANY' },
+      headlineLines: [
+        { line: 'Latest Posts From Our' },
+        { line: 'blog and Event Fan page' },
+      ],
+      links: [{ link: { type: 'custom' as const, url: '/posts', label: 'ALL ARTICLES' } }],
       populateBy: 'collection' as const,
       postCollection: 'posts' as const,
-      limit: 3,
+      limit: 4,
       sortField: 'publishedAt' as const,
       sortOrder: 'desc' as const,
     },

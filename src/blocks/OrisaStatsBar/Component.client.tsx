@@ -58,7 +58,7 @@ export function OrisaStatsBarClient({
       className="at-sec8-area-wrapper mx-auto max-w-[2200px]"
     >
       <div className="at-sec8-area mx-2 mt-10 rounded-[20px] bg-neutral-50 py-[90px] lg:mx-3">
-        <div className="w-full px-4">
+        <div className="mx-auto w-full max-w-[1750px] px-4">
           <div className="flex flex-wrap items-center justify-around gap-8 lg:justify-between">
             {items.map((stat, index) => (
               <div key={`${stat.label}-${index}`} className="text-center lg:text-start">

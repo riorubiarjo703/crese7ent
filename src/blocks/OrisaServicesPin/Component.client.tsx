@@ -228,7 +228,7 @@ export function OrisaServicesPinClient({
       className="at-panel-pin-area bg-white py-[120px] text-neutral-950"
       id={sectionId || 'services'}
     >
-      <div className="w-full px-4">
+      <div className="mx-auto w-full max-w-[1750px] px-4">
         <div className="mb-12 flex flex-wrap items-center justify-between gap-3 border-b border-neutral-200 pb-6">
           {eyebrow && (
             <OrisaRotatingLink

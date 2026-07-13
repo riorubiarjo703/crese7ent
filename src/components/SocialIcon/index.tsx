@@ -87,6 +87,20 @@ const GooglePlay = createLucideIcon('GooglePlay', [
   ['path', { d: 'M6 4v16', key: 'edge' }],
 ])
 
+const Behance = createLucideIcon('Behance', [
+  ['path', { d: 'M8 15h4.5a2.5 2.5 0 0 0 0-5H8v5Z', key: 'b' }],
+  ['path', { d: 'M8 7h4a2 2 0 0 1 0 4H8V7Z', key: 'e' }],
+  ['path', { d: 'M15 9h4', key: 'line' }],
+  ['circle', { cx: '17', cy: '12', r: '1', key: 'dot' }],
+])
+
+const Dribbble = createLucideIcon('Dribbble', [
+  ['circle', { cx: '12', cy: '12', r: '10', key: 'ring' }],
+  ['path', { d: 'M8.5 8.5c4.5 8.5 9 9.5 11 9.5', key: 'arc1' }],
+  ['path', { d: 'M7 15c3-1 7-4.5 11-10', key: 'arc2' }],
+  ['path', { d: 'M12 2a10 10 0 0 1 4 10', key: 'arc3' }],
+])
+
 const iconMap: Record<SocialIconType, React.FC<LucideProps>> = {
   facebook: Facebook,
   twitter: XIcon,
@@ -101,6 +115,8 @@ const iconMap: Record<SocialIconType, React.FC<LucideProps>> = {
   apple: Apple,
   android: Android,
   googleplay: GooglePlay,
+  behance: Behance,
+  dribbble: Dribbble,
 }
 
 export interface SocialIconProps {

@@ -1,16 +1,22 @@
 import React from 'react'
 
+import { closingCtaLoaders } from '@/blocks/ClosingCta/loaders'
+import type { ClosingCtaDesignVersion } from '@/blocks/ClosingCta/config'
 import type { ClosingCtaBlock } from '@/payload-types'
-import { PublicContextProps } from '@/utilities/publicContextProps'
+import type { PublicContextProps } from '@/utilities/publicContextProps'
+import { loadLazyComponent } from '@/utilities/loadLazyComponent'
 
-import { ClosingCtaClient } from './Component.client'
-
-export const ClosingCtaBlockComponent: React.FC<
-  ClosingCtaBlock & { publicContext: PublicContextProps }
-> = (props) => {
+export async function ClosingCtaBlockComponent(
+  props: ClosingCtaBlock & { publicContext: PublicContextProps },
+) {
   if (props.blockType !== 'closingCta') return null
 
-  return <ClosingCtaClient {...props} />
+  const designVersion = (props.designVersion ?? 'DEFAULT') as ClosingCtaDesignVersion
+  const ClosingCtaToRender = await loadLazyComponent(closingCtaLoaders[designVersion])
+
+  if (!ClosingCtaToRender) return null
+
+  return <ClosingCtaToRender {...props} />
 }
 
 export default ClosingCtaBlockComponent

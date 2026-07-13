@@ -341,7 +341,7 @@ export function OrisaWhyChooseUsClient({
       className="at-sec7-area-wrapper mx-auto max-w-[2200px]"
     >
       <div className="at-sec7-area mx-2 mt-10 rounded-[20px] bg-neutral-50 pt-[120px] pb-[120px] lg:mx-3">
-        <div className="w-full px-4">
+        <div className="mx-auto w-full max-w-[1750px] px-4">
           <div className="mb-8 grid items-end gap-6 lg:grid-cols-12">
             <div className="lg:col-span-8">
               <OrisaRotatingLink
