@@ -1,5 +1,5 @@
 import { Badge } from '@/components/ui/badge'
-import { buttonVariants } from '@/components/ui/button'
+import { buttonVariants } from '@/components/ui/button-variants'
 import { cn } from '@/utilities/cn'
 import { Hero } from '@/payload-types'
 import RichText from '@/components/RichText'
